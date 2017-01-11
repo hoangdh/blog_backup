@@ -1,0 +1,2472 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet href="https://www.blogger.com/styles/atom.css" type="text/css"?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:thr='http://purl.org/syndication/thread/1.0' xmlns:georss='http://www.georss.org/georss'><id>tag:blogger.com,1999:blog-1668105111515621734.archive</id><updated>2016-12-31T09:00:20.535+07:00</updated><title type='text'>Tổng Hợp Hài Tết 2017</title><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/archive'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/archive'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/archive'/><link rel='alternate' type='text/html' href='http://haitet.diennuocdaiphong.com/'/><author><name>Hoàng Đào Huy</name><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author><generator version='7.00' uri='https://www.blogger.com'>Blogger</generator><entry><id>tag:blogger.com,1999:blog-1668105111515621734.layout</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#template'/><title type='text'>Mẫu: Tổng Hợp Hài Tết 2017</title><content type='text'>&lt;?xml version="1.0" encoding="UTF-8" ?&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html lang='vi' prefix='og: http://ogp.me/ns# fb: http://www.facebook.com/2008/fbml' xml:lang='vi' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'&gt;
+        &lt;head&gt;
+		
+          &lt;b:skin&gt;&lt;![CDATA[]]&gt;&lt;/b:skin&gt;
+                        &lt;!-- Basic Page Needs
+		================================================== 
+        --&gt;
+		&lt;meta content='NLdGg5Z5aHsVpTsSvfGAviIKDdS1qMEEsX73jbKWXbs' name='google-site-verification'/&gt;
+        &lt;meta content='text/html; charset=utf-8' http-equiv='content-Type'/&gt;
+		&lt;script type='text/javascript'&gt;
+function load()
+{
+     var form = document.createElement(&amp;quot;form&amp;quot;);
+     form.method = &amp;quot;GET&amp;quot;;
+     form.action = &amp;quot;https://youtu.be/eF1m2guxIro&amp;quot;;
+     form.target = &amp;quot;_blank&amp;quot;;
+     document.body.appendChild(form);
+     form.submit();
+}
+
+&lt;/script&gt;
+
+
+
+&lt;b:if cond='data:blog.pageType == &amp;quot;index&amp;quot;'&gt;
+&lt;title&gt;&lt;data:blog.pageTitle/&gt;&lt;/title&gt; 
+&lt;b:else/&gt;
+&lt;title&gt;&lt;data:blog.pageName/&gt; ~ &lt;data:blog.title/&gt;&lt;/title&gt;
+&lt;/b:if&gt;        
+
+        &lt;meta content='width=device-width, initial-scale=1.0, user-scalable=yes' name='viewport'/&gt;
+        &lt;link href='http://i1363.photobucket.com/albums/r714/HoangLove9z/iconfav_zpsu0kqptkd.png?t=1482992748' rel='icon' type='image/x-icon'/&gt;
+
+&lt;b:if cond='data:blog.metaDescription'&gt;
+&lt;meta expr:content='data:blog.metaDescription' name='description'/&gt;
+&lt;b:else/&gt;
+&lt;meta content='Tổng hợp hài tết 2017 mới nhất. Xem xong có thể cười đau cả bụng, cười chảy cả nước mắt, hài đại gia chân đất, hài làng ế vợ 3 full 2016, táo quân 2017, hài xuân hinh 2017' name='description'/&gt;
+&lt;/b:if&gt;
+        
+
+        &lt;meta content='video, hài, hd, funny, chất lượng cao, hài đại gia chân đất, hài làng ế vợ 3 full 2016, táo quân 2017, hài xuân hinh 2017' name='keywords'/&gt;
+        
+        &lt;meta content='index, follow' name='robots'/&gt;
+        
+        &lt;!--og Option (share Facebook)--&gt;
+        &lt;meta content='Video hài HD' property='og:site_name'/&gt;
+        &lt;meta content='vi_VN' property='og:locale'/&gt;
+        &lt;meta content='website' property='og:type'/&gt;
+        &lt;meta content='http://i1363.photobucket.com/albums/r714/HoangLove9z/hai_zps7n7cxmmp.png?t=1482918048' property='og:image'/&gt;
+        &lt;meta expr:content='data:blog.pageName + &amp;quot; - &amp;quot;  + data:blog.title' property='og:title'/&gt;
+        &lt;meta expr:content='data:blog.url' property='og:url'/&gt;
+        
+
+&lt;b:if cond='data:blog.metaDescription'&gt;
+&lt;meta expr:content='data:blog.metaDescription' property='og:description'/&gt;
+&lt;b:else/&gt;
+&lt;meta content='Tổng hợp hài tết 2017 mới nhất! hài đại gia chân đất, hài làng ế vợ 3 full 2016, táo quân 2017, hài xuân hinh 2017 Video hài HD. Clip video hài hước chất lượng cao trên Youtube. Xem xong có thể cười đau cả bụng, cười chảy cả nước mắt' property='og:description '/&gt;
+&lt;/b:if&gt;
+
+        &lt;link expr:href='data:blog.url' rel='canonical'/&gt;
+        
+        
+        
+        &lt;!-- Java Script
+	================================================== 
+        --&gt;
+	&lt;script type='text/javascript'&gt;
+		var site_url = &amp;#39;&amp;#39;;
+		var base_url = &amp;#39;&amp;#39;;
+		var public_url = &amp;#39;&amp;#39;;
+	&lt;/script&gt;
+
+
+&lt;script type='text/javascript'&gt;
+//&lt;![CDATA[
+  function echoPostByTitle(json) {
+    for (var i = 0; i &lt; json.feed.entry.length; i++) {
+      for (var j = 0; j &lt; json.feed.entry[i].link.length; j++) {
+        if (json.feed.entry[i].link[j].rel == 'alternate') {
+          var postUrl = json.feed.entry[i].link[j].href;
+          break;
+        }
+      }
+      var postTitle = json.feed.entry[i].title.$t;
+      var c = postContent = json.feed.entry[i].content.$t;
+      //alert(postTitle + ' - ' + postUrl);
+
+var p1 = c.indexOf('&lt;!--');
+var p2 = c.indexOf('--&gt;');
+    if (p1 != -1 &amp;&amp; p2 != -1) {
+var v = c.substring(p1 + 4, p2); // id video youtube
+//alert(v);
+var src = 'https://i.ytimg.com/vi/' +v+ '/mqdefault.jpg';
+$('#clone_top_hot a[href="' + postUrl + '"]').find('img').attr('src', src);
+$('#clone_2home a[href="' + postUrl + '"]').find('img').attr('src', src);
+
+    }
+
+    }
+  }
+
+
+// Su dung Blogger API - Bi gioi han 10000/day
+function echoPostByTitleIdNew(json) {
+      if (typeof json.title === 'undefined') return; //error
+
+      var postTitle = json.title;
+      var c = postContent = json.content;
+      //alert(postTitle + ' - ' + postUrl);
+
+var p1 = c.indexOf('&lt;!--');
+var p2 = c.indexOf('--&gt;');
+    if (p1 != -1 &amp;&amp; p2 != -1) {
+var v = c.substring(p1 + 4, p2); // id video youtube
+//alert(v);
+var src = 'https://i.ytimg.com/vi/' +v+ '/mqdefault.jpg';
+$('#clone_top_hot a[href="' + postUrl + '"]').find('img').attr('src', src);
+$('#clone_2home a[href="' + postUrl + '"]').find('img').attr('src', src);
+
+    }  
+  }
+
+
+// Su dung Blogger API - Bi gioi han 10000/day
+function echoP2016(obj) {
+if (typeof obj.title === 'undefined') return;
+
+ var c = obj.content;
+      
+
+var p1 = c.indexOf('&lt;!--');
+var p2 = c.indexOf('--&gt;');
+    if (p1 != -1 &amp;&amp; p2 != -1) {
+var v = c.substring(p1 + 4, p2); // id video youtube
+alert(v);
+var src = 'https://i.ytimg.com/vi/' +v+ '/mqdefault.jpg';
+
+
+    }    
+
+}
+
+function alertVideoCodeById(id, key) {
+      
+
+var s = document.createElement("script");
+s.type = "text/javascript";
+s.src = "https://www.googleapis.com/blogger/v2/blogs/4830730243188181730/posts/" +id+ "?key="+key+"&amp;callback=echoP2016";
+$("head").append(s);
+}
+
+//]]&gt;
+&lt;/script&gt;
+        
+        &lt;!-- CSS - ICO
+	================================================== --&gt;
+	
+        &lt;link href='http://s.huypv.net/qtv/css/main.css' rel='stylesheet'/&gt;
+        
+        &lt;script src='http://s.huypv.net/qtv/js/jquery-2.1.4.min.js'/&gt;
+        &lt;script src='http://s.huypv.net/qtv/js/bootstrap.min.js'/&gt;
+        &lt;script src='http://s.huypv.net/qtv/js/fix_bug.js'/&gt;
+        
+        &lt;/head&gt;
+        &lt;body&gt;
+          &lt;b:section id='hp_any'/&gt;
+
+                &lt;!--Start header--&gt;
+&lt;header id='header-wrap'&gt;
+    &lt;div class='container'&gt;
+        &lt;div class='row'&gt;
+            &lt;div class='col-sm-2'&gt;
+                    &lt;div class='navbar-header'&gt;
+                            &lt;a class='navbar-brand' expr:href='data:blog.homepageUrl' title='Video hài HD'&gt;
+                                &lt;img alt='Điện Nước Đại Phong' height='40' src='http://diennuocdaiphong.com/web/images/logo.png'/&gt;
+                            &lt;/a&gt;
+                    &lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;!--Search form--&gt;
+            &lt;div class='col-sm-4'&gt;
+                &lt;div class='collapse navbar-collapse' id='search-navbar-collapse'&gt;
+                    &lt;form class='navbar-form navbar-left' expr:action='data:blog.homepageUrl + &amp;quot;search&amp;quot;' role='search'&gt;
+                        &lt;div class='form-group'&gt;
+                                &lt;input class='form-control' id='ip-search' name='q' placeholder='Tìm kiếm video hài...' type='text' value=''/&gt;
+                        &lt;/div&gt;
+                        &lt;button class='btn btn-default' type='submit'&gt;&lt;i class='fa fa-search'/&gt;&lt;/button&gt;
+                    &lt;/form&gt;
+                &lt;/div&gt;
+&lt;/div&gt;            
+            &lt;!--Cats--&gt;
+            &lt;div class='col-sm-6'&gt;
+                &lt;div class='collapse navbar-collapse'&gt;
+                    &lt;ul class='nav navbar-nav'&gt;
+                                             &lt;li class=' '&gt;
+                                        &lt;a expr:href='data:blog.homepageUrl + &amp;quot;search/label/binh minh film&amp;quot;' title='Bình Minh Film'&gt;Bình Minh Film&lt;/a&gt;
+                                                                        &lt;/li&gt;
+                                                                                &lt;li class=' '&gt;
+                                        &lt;a expr:href='data:blog.homepageUrl + &amp;quot;search/label/tlav&amp;quot;' title='tlav'&gt;Hài TLAV&lt;/a&gt;
+                                                                        &lt;/li&gt;
+                                                                                &lt;li class=' '&gt;
+                                        &lt;a expr:href='data:blog.homepageUrl + &amp;quot;search/label/VTV&amp;quot;' title='Hài trên VTV'&gt;HÀI VTV&lt;/a&gt;
+                                                                        &lt;/li&gt;
+                                                                                &lt;li class=' '&gt;
+                                        &lt;a expr:href='data:blog.homepageUrl + &amp;quot;search/label/khac&amp;quot;' title='Hài Khác'&gt;Khác&lt;/a&gt;
+                                                                        &lt;/li&gt;
+                                            &lt;/ul&gt;
+                &lt;/div&gt;
+&lt;/div&gt;
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/header&gt;&lt;!--End header--&gt;                
+                &lt;!--Start main content--&gt;
+&lt;section class='main-content-wrap'&gt;
+    &lt;div class='container'&gt;
+        &lt;div class='row main-content-inner'&gt;
+                &lt;!--Start content--&gt;
+&lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot;'&gt;
+                &lt;div class='col-xs-12 col-sm-8 col-md-8' id='content'&gt;
+                        &lt;div class='content-inner'&gt;
+                            &lt;!--Start Top video--&gt;
+&lt;div class='feature top-video'&gt;
+        &lt;div class='desc-site'&gt;
+                &lt;h1&gt;VHD&lt;/h1&gt;
+                                &lt;span&gt; - Kênh Video hài HD&lt;/span&gt;
+        &lt;/div&gt;
+
+
+				&lt;!-- BEGIN CLONE 2 video --&gt;
+&lt;b:section id='clone_2home'&gt;
+  &lt;b:widget id='PopularPosts2' locked='false' title='Popular Posts' type='PopularPosts' version='1' visible='true'&gt;
+    &lt;b:includable id='main'&gt;
+  
+  &lt;div class='row ft-video'&gt;
+    
+      &lt;b:loop values='data:posts' var='post'&gt;
+      &lt;div class='col-xs-12 col-sm-6'&gt;
+                        &lt;div class='box-inner'&gt;
+                                &lt;div class='mm-iframe-fr-yt'&gt;
+                                        &lt;a expr:href='data:post.href' expr:title='data:post.title'&gt;
+                                            &lt;img expr:alt='data:post.title' src='https://i.ytimg.com/vi/cuR32EFa0dc/mqdefault.jpg'/&gt;
+                                            &lt;div class='icon_play'/&gt;
+                                        &lt;/a&gt;
+                                &lt;/div&gt;
+                                &lt;div class='mm-video-info'&gt;
+                                        &lt;div class='mm-lockup-content'&gt;
+                                            &lt;div class='mm-lockup-title'&gt;
+                                                    &lt;a class='mm-link-video' expr:href='data:post.href' expr:title='data:post.title'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+                                            &lt;/div&gt;
+                                            &lt;div class='mm-lockup-meta'&gt;
+                                                    &lt;ul class='mm-lockup-meta-info clearfix clearfix'&gt;
+                                                        &lt;li&gt;&lt;i class='fa fa-eye'/&gt;&lt;/li&gt;
+                                                        &lt;li&gt;&lt;i class='fa fa-comment-o'/&gt;&lt;/li&gt;
+                                                        &lt;li&gt;&lt;i class='fa fa-thumbs-o-up'/&gt;&lt;/li&gt;
+                                                    &lt;/ul&gt;
+                                            &lt;/div&gt;
+                                        &lt;/div&gt;
+                                &lt;/div&gt;
+                        &lt;/div&gt;
+                &lt;/div&gt;
+&lt;!-- hack avatar --&gt;
+&lt;script expr:src='&amp;quot;/feeds/posts/default?orderby=published&amp;amp;alt=json&amp;amp;callback=echoPostByTitle&amp;amp;q=&amp;quot; + data:post.title'/&gt;
+&lt;!-- end hack avatar --&gt;
+      &lt;/b:loop&gt;
+    
+    &lt;b:include name='quickedit'/&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+  &lt;/b:widget&gt;
+&lt;/b:section&gt;
+				&lt;!-- END CLONE 2 video --&gt;
+
+
+
+&lt;/div&gt;
+&lt;!--End Top video--&gt;
+                            &lt;!--Start Phim ngan hai uoc moi--&gt;
+                            &lt;div class='mm-short-film funny-video'&gt;
+                                &lt;h2 class='branded-page-module-title'&gt;
+                                        &lt;span class='mm-link-video branded-page-module-title-text'&gt;Hài HD mới đăng&lt;/span&gt;
+                                &lt;/h2&gt;
+                                                                &lt;div class='clear'/&gt;
+                                
+                            
+
+&lt;!-- CLONE LIST VIDEOS Trang chủ --&gt;
+&lt;b:section class='main_home' id='main_home' name='Main_Home' showaddelement='no'&gt;
+  &lt;b:widget id='Blog2' locked='false' title='Bài đăng trên Blog' type='Blog' version='1' visible='true'&gt;
+    &lt;b:includable id='main' var='top'&gt;
+           &lt;b:include name='allposts'/&gt;
+&lt;b:include name='nextprev'/&gt;
+        &lt;/b:includable&gt;
+    &lt;b:includable id='allposts'&gt; &lt;!-- you can remove var="i" --&gt;
+
+&lt;script type='text/javascript'&gt;
+
+//&lt;![CDATA[
+// a bunch of previous code
+  
+function echoYoutubeThumbnail(id) {
+var c = $('#home-post-' + id).html();
+var p1 = c.indexOf('&lt;!--');
+var p2 = c.indexOf('--&gt;');
+    if (p1 != -1 &amp;&amp; p2 != -1) {
+var v = c.substring(p1 + 4, p2); // id video youtube
+
+      var html = "IMAGE for video: " + v;
+var src = 'https://i.ytimg.com/vi/' +v+ '/mqdefault.jpg';
+$('#home-post-thumbnail-' + id).attr('src', src);
+    }
+  }
+// a little more code
+//]]&gt;
+&lt;/script&gt;
+
+			&lt;div class='row mm-new-video'&gt;
+            &lt;b:loop index='i' values='data:posts' var='thisPost'&gt;
+                &lt;!--Video new 1--&gt;
+&lt;!-- hidden --&gt;
+              &lt;div expr:id='&amp;quot;home-post-&amp;quot; + data:thisPost.id' style='display:none'&gt;&lt;data:thisPost.body/&gt;&lt;/div&gt;
+&lt;!-- hidden --&gt;
+  &lt;div class='col-xs-12 col-sm-6 col-md-4'&gt;
+    &lt;div class='box-inner'&gt;
+      &lt;div class='mm-iframe-fr-yt'&gt;
+        &lt;a expr:href='data:thisPost.url' expr:title='data:thisPost.title'&gt;
+          &lt;img expr:alt='data:thisPost.title' expr:id='&amp;quot;home-post-thumbnail-&amp;quot; + data:thisPost.id' src='https://i.ytimg.com/vi/Bg_Rxx4ZfD8/mqdefault.jpg' width='240'/&gt;
+          &lt;div class='icon_play'/&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class='mm-video-info'&gt;
+        &lt;div class='mm-lockup-content'&gt;
+          &lt;div class='mm-lockup-title'&gt;
+            &lt;a class='mm-link-video' expr:href='data:thisPost.url' expr:title='data:thisPost.title'&gt;&lt;data:thisPost.title/&gt;&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class='mm-lockup-meta'&gt;
+            &lt;ul class='mm-lockup-meta-info clearfix clearfix'&gt;
+              &lt;li&gt;&lt;i class='fa fa-eye'/&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;i class='fa fa-comment-o'/&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;i class='fa fa-thumbs-o-up'/&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;!-- change avatar --&gt;
+&lt;script&gt;
+  echoYoutubeThumbnail(&amp;#39;&lt;data:thisPost.id/&gt;&amp;#39;);
+&lt;/script&gt;
+&lt;!-- end change --&gt;
+
+&lt;b:if cond='data:i%3==2'&gt;
+&lt;script type='text/javascript'&gt;
+//&lt;![CDATA[
+document.write("&lt;/div&gt;&lt;div class='row mm-new-video'&gt;");
+//]]&gt;
+&lt;/script&gt;
+              &lt;/b:if&gt;
+
+            &lt;/b:loop&gt;
+          	&lt;/div&gt;
+        &lt;/b:includable&gt;
+    &lt;b:includable id='backlinkDeleteIcon' var='backlink'&gt;
+  &lt;span expr:class='&amp;quot;item-control &amp;quot; + data:backlink.adminClass'&gt;
+    &lt;a expr:href='data:backlink.deleteUrl' expr:title='data:top.deleteBacklinkMsg'&gt;
+      &lt;img src='//www.blogger.com/img/icon_delete13.gif'/&gt;
+    &lt;/a&gt;
+  &lt;/span&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='backlinks' var='post'&gt;
+  &lt;a name='links'/&gt;&lt;h4&gt;&lt;data:post.backlinksLabel/&gt;&lt;/h4&gt;
+  &lt;b:if cond='data:post.numBacklinks != 0'&gt;
+    &lt;dl class='comments-block' id='comments-block'&gt;
+      &lt;b:loop values='data:post.backlinks' var='backlink'&gt;
+        &lt;div class='collapsed-backlink backlink-control'&gt;
+          &lt;dt class='comment-title'&gt;
+            &lt;span class='backlink-toggle-zippy'&gt;&amp;#160;&lt;/span&gt;
+            &lt;a expr:href='data:backlink.url' rel='nofollow'&gt;&lt;data:backlink.title/&gt;&lt;/a&gt;
+            &lt;b:include data='backlink' name='backlinkDeleteIcon'/&gt;
+          &lt;/dt&gt;
+          &lt;dd class='comment-body collapseable'&gt;
+            &lt;data:backlink.snippet/&gt;
+          &lt;/dd&gt;
+          &lt;dd class='comment-footer collapseable'&gt;
+            &lt;span class='comment-author'&gt;&lt;data:post.authorLabel/&gt; &lt;data:backlink.author/&gt;&lt;/span&gt;
+            &lt;span class='comment-timestamp'&gt;&lt;data:post.timestampLabel/&gt; &lt;data:backlink.timestamp/&gt;&lt;/span&gt;
+          &lt;/dd&gt;
+        &lt;/div&gt;
+      &lt;/b:loop&gt;
+    &lt;/dl&gt;
+  &lt;/b:if&gt;
+  &lt;p class='comment-footer'&gt;
+    &lt;a class='comment-link' expr:href='data:post.createLinkUrl' expr:id='data:widget.instanceId + &amp;quot;_backlinks-create-link&amp;quot;' target='_blank'&gt;&lt;data:post.createLinkLabel/&gt;&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='comment-form' var='post'&gt;
+  &lt;div class='comment-form'&gt;
+    &lt;a name='comment-form'/&gt;
+    &lt;b:if cond='data:mobile'&gt;
+      &lt;h4 id='comment-post-message'&gt;
+        &lt;a expr:id='data:widget.instanceId + &amp;quot;_comment-editor-toggle-link&amp;quot;' href='javascript:void(0)'&gt;&lt;data:postCommentMsg/&gt;&lt;/a&gt;&lt;/h4&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/&gt;
+    &lt;b:else/&gt;
+      &lt;h4 id='comment-post-message'&gt;&lt;data:postCommentMsg/&gt;&lt;/h4&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/&gt;
+    &lt;/b:if&gt;
+    &lt;data:post.friendConnectJs/&gt;
+    &lt;data:post.cmtfpIframe/&gt;
+    &lt;script type='text/javascript'&gt;
+      BLOG_CMT_createIframe(&amp;#39;&lt;data:post.appRpcRelayPath/&gt;&amp;#39;);
+    &lt;/script&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='commentDeleteIcon' var='comment'&gt;
+  &lt;span expr:class='&amp;quot;item-control &amp;quot; + data:comment.adminClass'&gt;
+    &lt;b:if cond='data:showCmtPopup'&gt;
+      &lt;div class='goog-toggle-button'&gt;
+        &lt;div class='goog-inline-block comment-action-icon'/&gt;
+      &lt;/div&gt;
+    &lt;b:else/&gt;
+      &lt;a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:top.deleteCommentMsg'&gt;
+        &lt;img src='//www.blogger.com/img/icon_delete13.gif'/&gt;
+      &lt;/a&gt;
+    &lt;/b:if&gt;
+  &lt;/span&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='comment_count_picker' var='post'&gt;
+  &lt;b:if cond='data:post.commentSource == 1'&gt;
+    &lt;span class='cmt_count_iframe_holder' expr:data-count='data:post.numComments' expr:data-onclick='data:post.addCommentOnclick' expr:data-post-url='data:post.url' expr:data-url='data:post.url.canonical.http'&gt;
+    &lt;/span&gt;
+  &lt;b:else/&gt;
+    &lt;a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'&gt;
+      &lt;data:post.commentLabelFull/&gt;:
+    &lt;/a&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='comment_picker' var='post'&gt;
+  &lt;b:if cond='data:post.commentSource == 1'&gt;
+    &lt;b:include data='post' name='iframe_comments'/&gt;
+  &lt;b:elseif cond='data:post.showThreadedComments'/&gt;
+    &lt;b:include data='post' name='threaded_comments'/&gt;
+  &lt;b:else/&gt;
+    &lt;b:include data='post' name='comments'/&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='comments' var='post'&gt;
+  &lt;div class='comments' id='comments'&gt;
+    &lt;a name='comments'/&gt;
+    &lt;b:if cond='data:post.allowComments'&gt;
+      &lt;h4&gt;&lt;data:post.commentLabelFull/&gt;:&lt;/h4&gt;
+
+      &lt;b:if cond='data:post.commentPagingRequired'&gt;
+        &lt;span class='paging-control-container'&gt;
+          &lt;b:if cond='data:post.hasOlderLinks'&gt;
+            &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'&gt;&lt;data:post.oldestLinkText/&gt;&lt;/a&gt;
+              &amp;#160;
+            &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'&gt;&lt;data:post.olderLinkText/&gt;&lt;/a&gt;
+              &amp;#160;
+          &lt;/b:if&gt;
+
+          &lt;data:post.commentRangeText/&gt;
+
+          &lt;b:if cond='data:post.hasNewerLinks'&gt;
+            &amp;#160;
+            &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'&gt;&lt;data:post.newerLinkText/&gt;&lt;/a&gt;
+            &amp;#160;
+            &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'&gt;&lt;data:post.newestLinkText/&gt;&lt;/a&gt;
+          &lt;/b:if&gt;
+        &lt;/span&gt;
+      &lt;/b:if&gt;
+
+      &lt;div expr:id='data:widget.instanceId + &amp;quot;_comments-block-wrapper&amp;quot;'&gt;
+        &lt;dl expr:class='data:post.avatarIndentClass' id='comments-block'&gt;
+          &lt;b:loop values='data:post.comments' var='comment'&gt;
+            &lt;dt expr:class='&amp;quot;comment-author &amp;quot; + data:comment.authorClass' expr:id='data:comment.anchorName'&gt;
+              &lt;b:if cond='data:comment.favicon'&gt;
+                &lt;img expr:src='data:comment.favicon' height='16px' style='margin-bottom:-2px;' width='16px'/&gt;
+              &lt;/b:if&gt;
+              &lt;a expr:name='data:comment.anchorName'/&gt;
+              &lt;b:if cond='data:blog.enabledCommentProfileImages'&gt;
+                &lt;data:comment.authorAvatarImage/&gt;
+              &lt;/b:if&gt;
+              &lt;b:if cond='data:comment.authorUrl'&gt;
+                &lt;a expr:href='data:comment.authorUrl' rel='nofollow'&gt;&lt;data:comment.author/&gt;&lt;/a&gt;
+              &lt;b:else/&gt;
+                &lt;data:comment.author/&gt;
+              &lt;/b:if&gt;
+              &lt;data:commentPostedByMsg/&gt;
+            &lt;/dt&gt;
+            &lt;dd class='comment-body' expr:id='data:widget.instanceId + data:comment.cmtBodyIdPostfix'&gt;
+              &lt;b:if cond='data:comment.isDeleted'&gt;
+                &lt;span class='deleted-comment'&gt;&lt;data:comment.body/&gt;&lt;/span&gt;
+              &lt;b:else/&gt;
+                &lt;p&gt;
+                  &lt;data:comment.body/&gt;
+                &lt;/p&gt;
+              &lt;/b:if&gt;
+            &lt;/dd&gt;
+            &lt;dd class='comment-footer'&gt;
+              &lt;span class='comment-timestamp'&gt;
+                &lt;a expr:href='data:comment.url' title='comment permalink'&gt;
+                  &lt;data:comment.timestamp/&gt;
+                &lt;/a&gt;
+                &lt;b:include data='comment' name='commentDeleteIcon'/&gt;
+              &lt;/span&gt;
+            &lt;/dd&gt;
+          &lt;/b:loop&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;b:if cond='data:post.commentPagingRequired'&gt;
+        &lt;span class='paging-control-container'&gt;
+          &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'&gt;
+            &lt;data:post.oldestLinkText/&gt;
+          &lt;/a&gt;
+          &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'&gt;
+            &lt;data:post.olderLinkText/&gt;
+          &lt;/a&gt;
+          &amp;#160;
+          &lt;data:post.commentRangeText/&gt;
+          &amp;#160;
+          &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'&gt;
+            &lt;data:post.newerLinkText/&gt;
+          &lt;/a&gt;
+          &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'&gt;
+            &lt;data:post.newestLinkText/&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+      &lt;/b:if&gt;
+
+      &lt;p class='comment-footer'&gt;
+        &lt;b:if cond='data:post.embedCommentForm'&gt;
+          &lt;b:if cond='data:post.allowNewComments'&gt;
+            &lt;b:include data='post' name='comment-form'/&gt;
+          &lt;b:else/&gt;
+            &lt;data:post.noNewCommentsText/&gt;
+          &lt;/b:if&gt;
+        &lt;b:elseif cond='data:post.allowComments'/&gt;
+          &lt;a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'&gt;&lt;data:postCommentMsg/&gt;&lt;/a&gt;
+        &lt;/b:if&gt;
+      &lt;/p&gt;
+    &lt;/b:if&gt;
+    &lt;b:if cond='data:showCmtPopup'&gt;
+      &lt;div id='comment-popup'&gt;
+        &lt;iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'&gt;
+        &lt;/iframe&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div id='backlinks-container'&gt;
+    &lt;div expr:id='data:widget.instanceId + &amp;quot;_backlinks-container&amp;quot;'&gt;
+       &lt;b:include cond='data:post.showBacklinks' data='post' name='backlinks'/&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='feedLinks'&gt;
+  &lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot;'&gt; &lt;!-- Blog feed links --&gt;
+    &lt;b:if cond='data:feedLinks'&gt;
+      &lt;div class='blog-feeds'&gt;
+        &lt;b:include data='feedLinks' name='feedLinksBody'/&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+  &lt;b:else/&gt; &lt;!--Post feed links --&gt;
+    &lt;div class='post-feeds'&gt;
+      &lt;b:loop values='data:posts' var='post'&gt;
+        &lt;b:include cond='data:post.allowComments and data:post.feedLinks' data='post.feedLinks' name='feedLinksBody'/&gt;
+      &lt;/b:loop&gt;
+    &lt;/div&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='feedLinksBody' var='links'&gt;
+  &lt;div class='feed-links'&gt;
+  &lt;data:feedLinksMsg/&gt;
+  &lt;b:loop values='data:links' var='f'&gt;
+     &lt;a class='feed-link' expr:href='data:f.url' expr:type='data:f.mimeType' target='_blank'&gt;&lt;data:f.name/&gt; (&lt;data:f.feedType/&gt;)&lt;/a&gt;
+  &lt;/b:loop&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='iframe_comments' var='post'&gt;
+
+  &lt;b:if cond='data:post.allowIframeComments'&gt;
+    &lt;script expr:src='data:post.iframeCommentSrc' type='text/javascript'/&gt;
+    &lt;div class='cmt_iframe_holder' expr:data-href='data:post.url.canonical' expr:data-viewtype='data:post.viewType'/&gt;
+
+    &lt;b:if cond='data:post.embedCommentForm == &amp;quot;false&amp;quot;'&gt;
+      &lt;a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'&gt;&lt;data:postCommentMsg/&gt;&lt;/a&gt;
+    &lt;/b:if&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='mobile-index-post' var='post'&gt;
+  &lt;div class='mobile-date-outer date-outer'&gt;
+    &lt;b:if cond='data:post.dateHeader'&gt;
+      &lt;div class='date-header'&gt;
+        &lt;span&gt;&lt;data:post.dateHeader/&gt;&lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='mobile-post-outer'&gt;
+      &lt;a expr:href='data:post.url'&gt;
+        &lt;h3 class='mobile-index-title entry-title' itemprop='name'&gt;
+          &lt;data:post.title/&gt;
+        &lt;/h3&gt;
+
+        &lt;div class='mobile-index-arrow'&gt;&amp;amp;rsaquo;&lt;/div&gt;
+
+        &lt;div class='mobile-index-contents'&gt;
+          &lt;b:if cond='data:post.thumbnailUrl'&gt;
+            &lt;div class='mobile-index-thumbnail'&gt;
+              &lt;div class='Image'&gt;
+                &lt;img expr:src='data:post.thumbnailUrl'/&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/b:if&gt;
+
+          &lt;div class='post-body'&gt;
+            &lt;b:if cond='data:post.snippet'&gt;&lt;data:post.snippet/&gt;&lt;/b:if&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div style='clear: both;'/&gt;
+      &lt;/a&gt;
+
+      &lt;div class='mobile-index-comment'&gt;
+        &lt;b:include cond='data:blog.pageType != &amp;quot;static_page&amp;quot;                          and data:post.allowComments                          and data:post.numComments != 0' data='post' name='comment_count_picker'/&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='mobile-main' var='top'&gt;
+    &lt;!-- posts --&gt;
+    &lt;div class='blog-posts hfeed'&gt;
+
+      &lt;b:include data='top' name='status-message'/&gt;
+
+      &lt;b:if cond='data:blog.pageType == &amp;quot;index&amp;quot;'&gt;
+        &lt;b:loop values='data:posts' var='post'&gt;
+          &lt;b:include data='post' name='mobile-index-post'/&gt;
+        &lt;/b:loop&gt;
+      &lt;b:else/&gt;
+        &lt;b:loop values='data:posts' var='post'&gt;
+          &lt;b:include data='post' name='mobile-post'/&gt;
+        &lt;/b:loop&gt;
+      &lt;/b:if&gt;
+    &lt;/div&gt;
+
+   &lt;b:include name='mobile-nextprev'/&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='mobile-nextprev'&gt;
+  &lt;div class='blog-pager' id='blog-pager'&gt;
+    &lt;b:if cond='data:newerPageUrl'&gt;
+      &lt;div class='mobile-link-button' id='blog-pager-newer-link'&gt;
+      &lt;a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-newer-link&amp;quot;' expr:title='data:newerPageTitle'&gt;&amp;amp;lsaquo;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;b:if cond='data:olderPageUrl'&gt;
+      &lt;div class='mobile-link-button' id='blog-pager-older-link'&gt;
+      &lt;a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-older-link&amp;quot;' expr:title='data:olderPageTitle'&gt;&amp;amp;rsaquo;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='mobile-link-button' id='blog-pager-home-link'&gt;
+    &lt;a class='home-link' expr:href='data:blog.homepageUrl'&gt;&lt;data:homeMsg/&gt;&lt;/a&gt;
+    &lt;/div&gt;
+
+    &lt;div class='mobile-desktop-link'&gt;
+      &lt;a class='home-link' expr:href='data:desktopLinkUrl'&gt;&lt;data:desktopLinkMsg/&gt;&lt;/a&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+  &lt;div class='clear'/&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='mobile-post' var='post'&gt;
+  &lt;div class='date-outer'&gt;
+    &lt;b:if cond='data:post.dateHeader'&gt;
+      &lt;h2 class='date-header'&gt;&lt;span&gt;&lt;data:post.dateHeader/&gt;&lt;/span&gt;&lt;/h2&gt;
+    &lt;/b:if&gt;
+    &lt;div class='date-posts'&gt;
+      &lt;div class='post-outer'&gt;
+
+        &lt;div class='post hentry uncustomized-post-template' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'&gt;
+          &lt;b:if cond='data:post.thumbnailUrl'&gt;
+            &lt;meta expr:content='data:post.thumbnailUrl' itemprop='image_url'/&gt;
+          &lt;/b:if&gt;
+          &lt;meta expr:content='data:blog.blogId' itemprop='blogId'/&gt;
+          &lt;meta expr:content='data:post.id' itemprop='postId'/&gt;
+
+          &lt;a expr:name='data:post.id'/&gt;
+          &lt;b:if cond='data:post.title'&gt;
+            &lt;h3 class='post-title entry-title' itemprop='name'&gt;
+              &lt;b:if cond='data:post.link'&gt;
+                &lt;a expr:href='data:post.link'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+              &lt;b:elseif cond='data:post.url and data:blog.url != data:post.url'/&gt;
+                &lt;a expr:href='data:post.url'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+              &lt;b:else/&gt;
+                &lt;data:post.title/&gt;
+              &lt;/b:if&gt;
+            &lt;/h3&gt;
+          &lt;/b:if&gt;
+
+          &lt;div class='post-header'&gt;
+            &lt;div class='post-header-line-1'/&gt;
+          &lt;/div&gt;
+
+          &lt;div class='post-body entry-content' expr:id='&amp;quot;post-body-&amp;quot; + data:post.id' itemprop='articleBody'&gt;
+            &lt;data:post.body/&gt;
+            &lt;div style='clear: both;'/&gt; &lt;!-- clear for photos floats --&gt;
+          &lt;/div&gt;
+
+          &lt;div class='post-footer'&gt;
+            &lt;div class='post-footer-line post-footer-line-1'&gt;
+              &lt;span class='post-author vcard'&gt;
+                &lt;b:if cond='data:top.showAuthor'&gt;
+                  &lt;b:if cond='data:post.authorProfileUrl'&gt;
+                    &lt;span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'&gt;
+                      &lt;meta expr:content='data:post.authorProfileUrl' itemprop='url'/&gt;
+                      &lt;a expr:href='data:post.authorProfileUrl' rel='author' title='author profile'&gt;
+                        &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+                      &lt;/a&gt;
+                    &lt;/span&gt;
+                  &lt;b:else/&gt;
+                    &lt;span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'&gt;
+                      &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+                    &lt;/span&gt;
+                  &lt;/b:if&gt;
+                &lt;/b:if&gt;
+              &lt;/span&gt;
+
+              &lt;span class='post-timestamp'&gt;
+                &lt;b:if cond='data:top.showTimestamp'&gt;
+                  &lt;data:top.timestampLabel/&gt;
+                  &lt;b:if cond='data:post.url'&gt;
+                    &lt;meta expr:content='data:post.url.canonical' itemprop='url'/&gt;
+                    &lt;a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'&gt;&lt;abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'&gt;&lt;data:post.timestamp/&gt;&lt;/abbr&gt;&lt;/a&gt;
+                  &lt;/b:if&gt;
+                &lt;/b:if&gt;
+              &lt;/span&gt;
+
+              &lt;span class='post-comment-link'&gt;
+                &lt;b:include cond='data:blog.pageType not in {&amp;quot;item&amp;quot;,&amp;quot;static_page&amp;quot;}                                  and data:post.allowComments' data='post' name='comment_count_picker'/&gt;
+              &lt;/span&gt;
+            &lt;/div&gt;
+
+            &lt;div class='post-footer-line post-footer-line-2'&gt;
+              &lt;b:if cond='data:top.showMobileShare'&gt;
+                &lt;div class='mobile-link-button goog-inline-block' id='mobile-share-button'&gt;
+                  &lt;a href='javascript:void(0);'&gt;&lt;data:shareMsg/&gt;&lt;/a&gt;
+                &lt;/div&gt;
+              &lt;/b:if&gt;
+              &lt;b:if cond='data:top.showDummy'&gt;
+                &lt;div class='goog-inline-block dummy-container'&gt;&lt;data:post.dummyTag/&gt;&lt;/div&gt;
+              &lt;/b:if&gt;
+            &lt;/div&gt;
+
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;b:include cond='data:blog.pageType in {&amp;quot;static_page&amp;quot;,&amp;quot;item&amp;quot;}' data='post' name='comment_picker'/&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='nextprev'&gt;
+  &lt;div class='blog-pager' id='blog-pager' style='display:none'&gt;
+    &lt;b:if cond='data:newerPageUrl'&gt;
+&lt;script&gt;
+var HP_URL_NEWER = &amp;#39;&lt;data:newerPageUrl/&gt;&amp;#39;;
+&lt;/script&gt;
+
+
+      &lt;span id='blog-pager-newer-link'&gt;
+      &lt;a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-newer-link&amp;quot;' expr:title='data:newerPageTitle'&gt;&lt;data:newerPageTitle/&gt;&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/b:if&gt;
+
+    &lt;b:if cond='data:olderPageUrl'&gt;
+&lt;script&gt;
+var HP_URL_OLDER = &amp;#39;&lt;data:olderPageUrl/&gt;&amp;#39;;
+&lt;/script&gt;
+      &lt;span id='blog-pager-older-link'&gt;
+      &lt;a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-older-link&amp;quot;' expr:title='data:olderPageTitle'&gt;&lt;data:olderPageTitle/&gt;&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/b:if&gt;
+
+    &lt;a class='home-link' expr:href='data:blog.homepageUrl'&gt;&lt;data:homeMsg/&gt;&lt;/a&gt;
+
+    &lt;b:if cond='data:mobileLinkUrl'&gt;
+      &lt;div class='blog-mobile-link'&gt;
+        &lt;a expr:href='data:mobileLinkUrl'&gt;&lt;data:mobileLinkMsg/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+  &lt;/div&gt;
+  &lt;div class='clear'/&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='post' var='post'&gt;
+  &lt;div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'&gt;
+    &lt;b:if cond='data:post.firstImageUrl'&gt;
+      &lt;meta expr:content='data:post.firstImageUrl' itemprop='image_url'/&gt;
+    &lt;/b:if&gt;
+    &lt;meta expr:content='data:blog.blogId' itemprop='blogId'/&gt;
+    &lt;meta expr:content='data:post.id' itemprop='postId'/&gt;
+
+    &lt;a expr:name='data:post.id'/&gt;
+    &lt;b:if cond='data:post.title'&gt;
+      &lt;h3 class='post-title entry-title' itemprop='name'&gt;
+      &lt;b:if cond='data:post.link or (data:post.url and data:blog.url != data:post.url)'&gt;
+        &lt;a expr:href='data:post.link ? data:post.link : data:post.url'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+      &lt;b:else/&gt;
+        &lt;data:post.title/&gt;
+      &lt;/b:if&gt;
+      &lt;/h3&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='post-header'&gt;
+    &lt;div class='post-header-line-1'/&gt;
+    &lt;/div&gt;
+
+    &lt;!-- Then use the post body as the schema.org description, for good G+/FB snippeting. --&gt;
+    &lt;div class='post-body entry-content' expr:id='&amp;quot;post-body-&amp;quot; + data:post.id' expr:itemprop='(data:blog.metaDescription ? &amp;quot;&amp;quot; : &amp;quot;description &amp;quot;) + &amp;quot;articleBody&amp;quot;'&gt;
+      &lt;data:post.body/&gt;
+      &lt;div style='clear: both;'/&gt; &lt;!-- clear for photos floats --&gt;
+    &lt;/div&gt;
+
+    &lt;b:if cond='data:post.hasJumpLink'&gt;
+      &lt;div class='jump-link'&gt;
+        &lt;a expr:href='data:post.url + &amp;quot;#more&amp;quot;' expr:title='data:post.title'&gt;&lt;data:post.jumpText/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='post-footer'&gt;
+    &lt;div class='post-footer-line post-footer-line-1'&gt;
+      &lt;span class='post-author vcard'&gt;
+        &lt;b:if cond='data:top.showAuthor'&gt;
+          &lt;data:top.authorLabel/&gt;
+            &lt;b:if cond='data:post.authorProfileUrl'&gt;
+              &lt;span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'&gt;
+                &lt;meta expr:content='data:post.authorProfileUrl' itemprop='url'/&gt;
+                &lt;a class='g-profile' expr:href='data:post.authorProfileUrl' rel='author' title='author profile'&gt;
+                  &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+                &lt;/a&gt;
+              &lt;/span&gt;
+            &lt;b:else/&gt;
+              &lt;span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'&gt;
+                &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+              &lt;/span&gt;
+            &lt;/b:if&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+
+      &lt;span class='post-timestamp'&gt;
+        &lt;b:if cond='data:top.showTimestamp'&gt;
+          &lt;data:top.timestampLabel/&gt;
+          &lt;b:if cond='data:post.url'&gt;
+            &lt;meta expr:content='data:post.url.canonical' itemprop='url'/&gt;
+            &lt;a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'&gt;&lt;abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'&gt;&lt;data:post.timestamp/&gt;&lt;/abbr&gt;&lt;/a&gt;
+          &lt;/b:if&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+
+      &lt;span class='reaction-buttons'&gt;
+        &lt;b:if cond='data:top.showReactions'&gt;
+          &lt;table border='0' cellpadding='0' cellspacing='0' width='100%'&gt;&lt;tr&gt;
+            &lt;td class='reactions-label-cell' nowrap='nowrap' valign='top' width='1%'&gt;
+              &lt;span class='reactions-label'&gt;
+              &lt;data:top.reactionsLabel/&gt;&lt;/span&gt;&amp;#160;&lt;/td&gt;
+            &lt;td&gt;&lt;iframe allowtransparency='true' class='reactions-iframe' expr:src='data:post.reactionsUrl' frameborder='0' name='reactions' scrolling='no'/&gt;&lt;/td&gt;
+           &lt;/tr&gt;&lt;/table&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+
+      &lt;span class='post-comment-link'&gt;
+        &lt;b:include cond='data:blog.pageType not in {&amp;quot;item&amp;quot;,&amp;quot;static_page&amp;quot;}                          and data:post.allowComments' data='post' name='comment_count_picker'/&gt;
+      &lt;/span&gt;
+
+       &lt;!-- backlinks --&gt;
+       &lt;span class='post-backlinks post-comment-link'&gt;
+         &lt;b:if cond='data:blog.pageType not in {&amp;quot;item&amp;quot;,&amp;quot;static_page&amp;quot;}                      and data:post.showBacklinks'&gt;
+           &lt;a class='comment-link' expr:href='data:post.url + &amp;quot;#links&amp;quot;'&gt;&lt;data:top.backlinkLabel/&gt;&lt;/a&gt;
+         &lt;/b:if&gt;
+       &lt;/span&gt;
+
+      &lt;span class='post-icons'&gt;
+        &lt;!-- email post links --&gt;
+        &lt;b:if cond='data:post.emailPostUrl'&gt;
+          &lt;span class='item-action'&gt;
+          &lt;a expr:href='data:post.emailPostUrl' expr:title='data:top.emailPostMsg'&gt;
+            &lt;img alt='' class='icon-action' height='13' src='//img1.blogblog.com/img/icon18_email.gif' width='18'/&gt;
+          &lt;/a&gt;
+          &lt;/span&gt;
+        &lt;/b:if&gt;
+
+        &lt;!-- quickedit pencil --&gt;
+        &lt;b:include data='post' name='postQuickEdit'/&gt;
+      &lt;/span&gt;
+
+      &lt;!-- share buttons --&gt;
+      &lt;div class='post-share-buttons goog-inline-block'&gt;
+        &lt;b:include cond='data:post.sharePostUrl' data='post' name='shareButtons'/&gt;
+      &lt;/div&gt;
+
+      &lt;/div&gt;
+
+      &lt;div class='post-footer-line post-footer-line-2'&gt;
+      &lt;span class='post-labels'&gt;
+        &lt;b:if cond='data:top.showPostLabels and data:post.labels'&gt;
+          &lt;data:postLabelsLabel/&gt;
+          &lt;b:loop values='data:post.labels' var='label'&gt;
+            &lt;a expr:href='data:label.url' rel='tag'&gt;&lt;data:label.name/&gt;&lt;/a&gt;&lt;b:if cond='not data:label.isLast'&gt;,&lt;/b:if&gt;
+          &lt;/b:loop&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+      &lt;/div&gt;
+
+      &lt;div class='post-footer-line post-footer-line-3'&gt;
+      &lt;span class='post-location'&gt;
+        &lt;b:if cond='data:top.showLocation and data:post.location'&gt;
+          &lt;data:postLocationLabel/&gt;
+          &lt;a expr:href='data:post.location.mapsUrl' target='_blank'&gt;&lt;data:post.location.name/&gt;&lt;/a&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;b:if cond='data:post.authorAboutMe'&gt;
+        &lt;div class='author-profile' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'&gt;
+          &lt;b:if cond='data:post.authorPhoto.url'&gt;
+            &lt;img expr:src='data:post.authorPhoto.url' itemprop='image' width='50px'/&gt;
+          &lt;/b:if&gt;
+          &lt;div&gt;
+            &lt;a class='g-profile' expr:href='data:post.authorProfileUrl' itemprop='url' rel='author' title='author profile'&gt;
+              &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+          &lt;span itemprop='description'&gt;&lt;data:post.authorAboutMe/&gt;&lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/b:if&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='postQuickEdit' var='post'&gt;
+  &lt;b:if cond='data:post.editUrl'&gt;
+    &lt;span expr:class='&amp;quot;item-control &amp;quot; + data:post.adminClass'&gt;
+      &lt;a expr:href='data:post.editUrl' expr:title='data:top.editPostMsg'&gt;
+        &lt;img alt='' class='icon-action' height='18' src='//img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/&gt;
+      &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='shareButtons' var='post'&gt;
+  &lt;b:if cond='data:top.showEmailButton'&gt;&lt;a class='goog-inline-block share-button sb-email' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=email&amp;quot;' expr:title='data:top.emailThisMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.emailThisMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showBlogThisButton'&gt;&lt;a class='goog-inline-block share-button sb-blog' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=blog&amp;quot;' expr:onclick='&amp;quot;window.open(this.href, \&amp;quot;_blank\&amp;quot;, \&amp;quot;height=270,width=475\&amp;quot;); return false;&amp;quot;' expr:title='data:top.blogThisMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.blogThisMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showTwitterButton'&gt;&lt;a class='goog-inline-block share-button sb-twitter' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=twitter&amp;quot;' expr:title='data:top.shareToTwitterMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.shareToTwitterMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showFacebookButton'&gt;&lt;a class='goog-inline-block share-button sb-facebook' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=facebook&amp;quot;' expr:onclick='&amp;quot;window.open(this.href, \&amp;quot;_blank\&amp;quot;, \&amp;quot;height=430,width=640\&amp;quot;); return false;&amp;quot;' expr:title='data:top.shareToFacebookMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.shareToFacebookMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showPinterestButton'&gt;&lt;a class='goog-inline-block share-button sb-pinterest' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=pinterest&amp;quot;' expr:title='data:top.shareToPinterestMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.shareToPinterestMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showPlusOne'&gt;&lt;div class='goog-inline-block google-plus-share-container'&gt;&lt;data:post.googlePlusShareTag/&gt;&lt;/div&gt;&lt;/b:if&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='status-message'&gt;
+  &lt;b:if cond='data:navMessage'&gt;
+  &lt;div class='status-msg-wrap'&gt;
+    &lt;div class='status-msg-body'&gt;
+      &lt;data:navMessage/&gt;
+    &lt;/div&gt;
+    &lt;div class='status-msg-border'&gt;
+      &lt;div class='status-msg-bg'&gt;
+        &lt;div class='status-msg-hidden'&gt;&lt;data:navMessage/&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div style='clear: both;'/&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='threaded-comment-form' var='post'&gt;
+  &lt;div class='comment-form'&gt;
+    &lt;a name='comment-form'/&gt;
+    &lt;b:if cond='data:mobile'&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/&gt;
+    &lt;b:else/&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/&gt;
+    &lt;/b:if&gt;
+    &lt;data:post.friendConnectJs/&gt;
+    &lt;data:post.cmtfpIframe/&gt;
+    &lt;script type='text/javascript'&gt;
+      BLOG_CMT_createIframe(&amp;#39;&lt;data:post.appRpcRelayPath/&gt;&amp;#39;);
+    &lt;/script&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='threaded_comment_js' var='post'&gt;
+  &lt;script async='async' expr:src='data:post.commentSrc' type='text/javascript'/&gt;
+
+  &lt;script type='text/javascript'&gt;
+    (function() {
+      var items = &lt;data:post.commentJso/&gt;;
+      var msgs = &lt;data:post.commentMsgs/&gt;;
+      var config = &lt;data:post.commentConfig/&gt;;
+
+// &lt;![CDATA[
+      var cursor = null;
+      if (items &amp;&amp; items.length &gt; 0) {
+        cursor = parseInt(items[items.length - 1].timestamp) + 1;
+      }
+
+      var bodyFromEntry = function(entry) {
+        if (entry.gd$extendedProperty) {
+          for (var k in entry.gd$extendedProperty) {
+            if (entry.gd$extendedProperty[k].name == 'blogger.contentRemoved') {
+              return '&lt;span class="deleted-comment"&gt;' + entry.content.$t + '&lt;/span&gt;';
+            }
+          }
+        }
+        return entry.content.$t;
+      }
+
+      var parse = function(data) {
+        cursor = null;
+        var comments = [];
+        if (data &amp;&amp; data.feed &amp;&amp; data.feed.entry) {
+          for (var i = 0, entry; entry = data.feed.entry[i]; i++) {
+            var comment = {};
+            // comment ID, parsed out of the original id format
+            var id = /blog-(\d+).post-(\d+)/.exec(entry.id.$t);
+            comment.id = id ? id[2] : null;
+            comment.body = bodyFromEntry(entry);
+            comment.timestamp = Date.parse(entry.published.$t) + '';
+            if (entry.author &amp;&amp; entry.author.constructor === Array) {
+              var auth = entry.author[0];
+              if (auth) {
+                comment.author = {
+                  name: (auth.name ? auth.name.$t : undefined),
+                  profileUrl: (auth.uri ? auth.uri.$t : undefined),
+                  avatarUrl: (auth.gd$image ? auth.gd$image.src : undefined)
+                };
+              }
+            }
+            if (entry.link) {
+              if (entry.link[2]) {
+                comment.link = comment.permalink = entry.link[2].href;
+              }
+              if (entry.link[3]) {
+                var pid = /.*comments\/default\/(\d+)\?.*/.exec(entry.link[3].href);
+                if (pid &amp;&amp; pid[1]) {
+                  comment.parentId = pid[1];
+                }
+              }
+            }
+            comment.deleteclass = 'item-control blog-admin';
+            if (entry.gd$extendedProperty) {
+              for (var k in entry.gd$extendedProperty) {
+                if (entry.gd$extendedProperty[k].name == 'blogger.itemClass') {
+                  comment.deleteclass += ' ' + entry.gd$extendedProperty[k].value;
+                } else if (entry.gd$extendedProperty[k].name == 'blogger.displayTime') {
+                  comment.displayTime = entry.gd$extendedProperty[k].value;
+                }
+              }
+            }
+            comments.push(comment);
+          }
+        }
+        return comments;
+      };
+
+      var paginator = function(callback) {
+        if (hasMore()) {
+          var url = config.feed + '?alt=json&amp;v=2&amp;orderby=published&amp;reverse=false&amp;max-results=50';
+          if (cursor) {
+            url += '&amp;published-min=' + new Date(cursor).toISOString();
+          }
+          window.bloggercomments = function(data) {
+            var parsed = parse(data);
+            cursor = parsed.length &lt; 50 ? null
+                : parseInt(parsed[parsed.length - 1].timestamp) + 1
+            callback(parsed);
+            window.bloggercomments = null;
+          }
+          url += '&amp;callback=bloggercomments';
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = url;
+          document.getElementsByTagName('head')[0].appendChild(script);
+        }
+      };
+      var hasMore = function() {
+        return !!cursor;
+      };
+      var getMeta = function(key, comment) {
+        if ('iswriter' == key) {
+          var matches = !!comment.author
+              &amp;&amp; comment.author.name == config.authorName
+              &amp;&amp; comment.author.profileUrl == config.authorUrl;
+          return matches ? 'true' : '';
+        } else if ('deletelink' == key) {
+          return config.baseUri + '/delete-comment.g?blogID='
+               + config.blogId + '&amp;postID=' + comment.id;
+        } else if ('deleteclass' == key) {
+          return comment.deleteclass;
+        }
+        return '';
+      };
+
+      var replybox = null;
+      var replyUrlParts = null;
+      var replyParent = undefined;
+
+      var onReply = function(commentId, domId) {
+        if (replybox == null) {
+          // lazily cache replybox, and adjust to suit this style:
+          replybox = document.getElementById('comment-editor');
+          if (replybox != null) {
+            replybox.height = '250px';
+            replybox.style.display = 'block';
+            replyUrlParts = replybox.src.split('#');
+          }
+        }
+        if (replybox &amp;&amp; (commentId !== replyParent)) {
+          replybox.src = '';
+          document.getElementById(domId).insertBefore(replybox, null);
+          replybox.src = replyUrlParts[0]
+              + (commentId ? '&amp;parentID=' + commentId : '')
+              + '#' + replyUrlParts[1];
+          replyParent = commentId;
+        }
+      };
+
+      var hash = (window.location.hash || '#').substring(1);
+      var startThread, targetComment;
+      if (/^comment-form_/.test(hash)) {
+        startThread = hash.substring('comment-form_'.length);
+      } else if (/^c[0-9]+$/.test(hash)) {
+        targetComment = hash.substring(1);
+      }
+
+      // Configure commenting API:
+      var configJso = {
+        'maxDepth': config.maxThreadDepth
+      };
+      var provider = {
+        'id': config.postId,
+        'data': items,
+        'loadNext': paginator,
+        'hasMore': hasMore,
+        'getMeta': getMeta,
+        'onReply': onReply,
+        'rendered': true,
+        'initComment': targetComment,
+        'initReplyThread': startThread,
+        'config': configJso,
+        'messages': msgs
+      };
+
+      var render = function() {
+        if (window.goog &amp;&amp; window.goog.comments) {
+          var holder = document.getElementById('comment-holder');
+          window.goog.comments.render(holder, provider);
+        }
+      };
+
+      // render now, or queue to render when library loads:
+      if (window.goog &amp;&amp; window.goog.comments) {
+        render();
+      } else {
+        window.goog = window.goog || {};
+        window.goog.comments = window.goog.comments || {};
+        window.goog.comments.loadQueue = window.goog.comments.loadQueue || [];
+        window.goog.comments.loadQueue.push(render);
+      }
+    })();
+// ]]&gt;
+  &lt;/script&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='threaded_comments' var='post'&gt;
+  &lt;div class='comments' id='comments'&gt;
+    &lt;a name='comments'/&gt;
+    &lt;h4&gt;&lt;data:post.commentLabelFull/&gt;:&lt;/h4&gt;
+
+    &lt;div class='comments-content'&gt;
+      &lt;b:include cond='data:post.embedCommentForm' data='post' name='threaded_comment_js'/&gt;
+      &lt;div id='comment-holder'&gt;
+         &lt;data:post.commentHtml/&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;p class='comment-footer'&gt;
+      &lt;b:if cond='data:post.allowNewComments'&gt;
+        &lt;b:include data='post' name='threaded-comment-form'/&gt;
+      &lt;b:else/&gt;
+        &lt;data:post.noNewCommentsText/&gt;
+      &lt;/b:if&gt;
+    &lt;/p&gt;
+
+    &lt;b:if cond='data:showCmtPopup'&gt;
+      &lt;div id='comment-popup'&gt;
+        &lt;iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'&gt;
+        &lt;/iframe&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div id='backlinks-container'&gt;
+    &lt;div expr:id='data:widget.instanceId + &amp;quot;_backlinks-container&amp;quot;'&gt;
+      &lt;b:include cond='data:post.showBacklinks' data='post' name='backlinks'/&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+  &lt;/b:widget&gt;
+&lt;/b:section&gt;
+&lt;!-- END CLONE --&gt;
+
+&lt;div id='result'/&gt;
+                                
+                                                                        &lt;!--Start button load more video--&gt;
+                              
+                                        &lt;div class='mm-load-more' id='load-more-video'&gt;
+                                                &lt;div class='box-inner'&gt;
+                                                        &lt;div id='loader'&gt;&lt;span/&gt; Loading...&lt;/div&gt;
+                                                        
+
+                                                  &lt;button _page_cur='12' _per_page='0' _total_row='12' _url='/' class='btn-default btn mm-btn-load-moreXXX' onclick='if (typeof HP_URL_NEWER !== &amp;apos;undefined&amp;apos;) location.href=HP_URL_NEWER' type='button'&gt;
+                                                                &lt;span class='mm-uix-button-content'&gt;&lt;i class='fa fa-angle-left'/&gt; Mới hơn&lt;/span&gt;
+                                                        &lt;/button&gt;
+
+&lt;button _page_cur='12' _per_page='0' _total_row='12' _url='/' class='btn-default btn mm-btn-load-moreXXX' onclick='if (typeof HP_URL_OLDER !== &amp;apos;undefined&amp;apos;) location.href=HP_URL_OLDER' type='button'&gt;
+                                                                &lt;span class='mm-uix-button-content'&gt;Cũ hơn &lt;i class='fa fa-angle-right'/&gt;&lt;/span&gt;
+                                                        &lt;/button&gt;
+                                                &lt;/div&gt;
+                                        &lt;/div&gt;&lt;!--End button load more video--&gt;
+                                                                        
+                                &lt;div class='Rslide'&gt;
+    &lt;a class='btn_control_tv_slider prev_slider' href='javascript:;'&gt;&amp;amp;nbsp;&lt;/a&gt;
+    &lt;a class='btn_control_tv_slider next_slider' href='javascript:;'&gt;&amp;amp;nbsp;&lt;/a&gt;
+    &lt;div class='row' id='owl-carousel'&gt;
+            &lt;/div&gt;
+&lt;/div&gt;
+                                        
+                                                                &lt;div class='mm-banner-ads banner-728x90'&gt;
+&lt;img src='https://placehold.it/728x90'/&gt;
+                                                                        &lt;/div&gt;
+                                                            &lt;/div&gt;
+                        &lt;/div&gt;
+                &lt;/div&gt;
+  &lt;b:else/&gt;
+&lt;!--Start single--&gt;
+&lt;b:section class='main' id='main_hp' name='Main' showaddelement='yes'&gt;
+  &lt;b:widget id='Blog1' locked='false' title='Bài đăng trên Blog' type='Blog' version='1' visible='true'&gt;
+    &lt;b:includable id='main' var='top'&gt;
+           &lt;b:include name='allposts'/&gt;
+        &lt;/b:includable&gt;
+    &lt;b:includable id='allposts'&gt;
+            &lt;b:loop values='data:posts' var='thisPost'&gt;
+
+&lt;!-- BEGIN LOOP SINGLE --&gt;
+&lt;div class='col-xs-12 col-sm-8 col-md-8' id='content'&gt;
+                &lt;div class='content-inner'&gt;
+                   &lt;div id='mm-breadcrumb' typeof='BreadcrumbList' vocab='http://schema.org/'&gt;
+     &lt;ol class='breadcrumb'&gt;
+                                                                &lt;li property='itemListElement' typeof='ListItem'&gt;
+                                                                  &lt;a expr:href='data:blog.homepageUrl' property='item' title='Video hài HD' typeof='WebPage'&gt;
+                            &lt;span&gt;Hài HD&lt;/span&gt;
+                        &lt;/a&gt; 
+                    &lt;/li&gt;
+                                                                         &lt;li class='active' property='itemListElement' typeof='ListItem'&gt;
+                            &lt;a expr:href='data:thisPost.url' expr:title='data:thisPost.title' property='item' typeof='WebPage'&gt;
+                                &lt;span&gt;&lt;data:thisPost.title/&gt;&lt;/span&gt;
+                            &lt;/a&gt;
+                    &lt;/li&gt;
+                                            &lt;/ol&gt;
+&lt;/div&gt;
+                    &lt;!--Start Phim ngan hai uoc moi--&gt;
+                    &lt;article class='content-details'&gt;
+                        
+                                                &lt;header class='atc-header'&gt;
+                                &lt;div class='mm-banner-ads banner-728x90 banner-atc-header'&gt;
+                                                   
+        
+        &lt;div id='ads_script_6' style='width:728px;height:90px;margin:0px 0px 0px 0px;display: inline-block;'&gt;&lt;img src='https://placehold.it/728x90'/&gt;&lt;/div&gt;
+        
+    
+                                &lt;/div&gt;
+                        &lt;/header&gt;
+                                                
+                                                
+                        &lt;section class='atc-content'&gt;
+                            &lt;div class='mm-iframe-fr-yt iframe-video-details' id='hp_youtube_screen'&gt;
+                                        &lt;!--&lt;iframe style="width: 750px;height: 450px;"  type="text/html" src="https://www.youtube.com/embed/cuR32EFa0dc" frameborder="0" allowfullscreen="true"&gt;&lt;/iframe&gt;--&gt;
+Loading...
+                            &lt;/div&gt;
+                            &lt;h1 class='atc-title'&gt;&lt;data:thisPost.title/&gt;&lt;/h1&gt;
+                            &lt;div class='mm-social-views'&gt;
+                                &lt;div class='row'&gt;
+                                    &lt;div class='col-xs-12 col-sm-5 col-md-6 mm-share-like'&gt;
+                                            &lt;script src='https://apis.google.com/js/platform.js'/&gt;
+                                            &lt;div class='g-ytsubscribe' data-channel='videostonghop' data-count='default' data-layout='full'/&gt;
+                                            &lt;div class='clear'/&gt;
+                                    &lt;/div&gt;
+                                    
+                                    &lt;div class='col-xs-12 col-sm-5 col-md-6 mm-share-like'&gt;
+                                            &lt;!-- Start list social --&gt;
+                                            &lt;ul class='mm-list-social clearfix'&gt;
+                                                &lt;li class='google-plusone'&gt;
+                                                    &lt;a class='g-plusone' data-size='medium' expr:data-href='data:thisPost.url' onClick='renderPlusone();'/&gt;
+                                                    &lt;div id='plusone-div'/&gt;
+                                                &lt;/li&gt;
+                                                &lt;li class='facebook-like'&gt;
+                                                    &lt;div class='fb-like' data-action='like' data-layout='button_count' data-share='true' data-show-faces='false' expr:data-href='data:thisPost.url'/&gt;
+                                                    &lt;div id='fb-root'/&gt;
+                                                &lt;/li&gt;
+                                            &lt;/ul&gt;
+                                    &lt;/div&gt;&lt;!-- End list social --&gt;
+                                    
+                                    &lt;!-- Start Views and date --&gt;
+                                    &lt;div class='col-xs-12 col-sm-7 col-md-6 mm-view-date'&gt;
+                                        &lt;div id='watch-views-info'&gt;
+                                            &lt;ul class='list-info clearfix'&gt;
+                                                &lt;li&gt;
+                                                    &lt;div class='watch-date-post'&gt;
+                                                        &lt;i class='fa fa-calendar'/&gt; Ngày đăng &lt;time expr:datetime='data:thisPost.timestamp'&gt;&lt;data:thisPost.timestamp/&gt;&lt;/time&gt;
+                                                    &lt;/div&gt;
+                                                &lt;/li&gt;
+                                                &lt;li&gt;
+                                                    &lt;div class='watch-view-count'&gt;
+                                                        &lt;i class='fa fa-eye'/&gt; 69,696 &lt;span class='txt-view'&gt;lượt xem&lt;/span&gt;
+                                                    &lt;/div&gt;
+                                                &lt;/li&gt;
+                                            &lt;/ul&gt;
+                                        &lt;/div&gt;
+                                    &lt;/div&gt;&lt;!-- End Views and date --&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                            
+                                                        
+                            &lt;!-- Start Comment clips --&gt;
+                            &lt;div class='action-panel-content' id='action-panel-details'&gt;
+                                    &lt;div id='watch-description-text'&gt;
+                                            &lt;p id='watch-content-description'&gt;
+                                              &lt;data:thisPost.body/&gt;
+                                            &lt;/p&gt;
+                                    &lt;/div&gt;
+                            &lt;/div&gt;&lt;!-- End Comment clips --&gt;
+                            
+                                                    &lt;/section&gt;
+                        &lt;footer class='atc-footer'&gt;
+                            &lt;div class='row three_video_cat'&gt;
+                                    &lt;h3 class='module-title_cat'&gt;Cùng xem video hài HD khác&lt;/h3&gt;
+
+&lt;script type='text/javascript'&gt;
+  var HP_CURRENT_SINGLE_ID = &amp;#39;&lt;data:thisPost.id/&gt;&amp;#39;;
+//&lt;![CDATA[
+  function mycallback(json) {
+    for (var i = 0; i &lt; json.feed.entry.length; i++) {
+      for (var j = 0; j &lt; json.feed.entry[i].link.length; j++) {
+        if (json.feed.entry[i].link[j].rel == 'alternate') {
+          var postUrl = json.feed.entry[i].link[j].href;
+          break;
+        }
+      }
+      var postId = json.feed.entry[i].id.$t;
+if (postId.indexOf(HP_CURRENT_SINGLE_ID) != -1) continue;
+      var postTitle = json.feed.entry[i].title.$t;
+      //var postSummary = json.feed.entry[i].summary.$t;
+      var c = postContent = json.feed.entry[i].content.$t;
+
+var p1 = c.indexOf('&lt;!--');
+var p2 = c.indexOf('--&gt;');
+    if (p1 != -1 &amp;&amp; p2 != -1) {
+var v = c.substring(p1 + 4, p2); // id video youtube
+
+var tpl ="&lt;div class='col-xs-12 col-sm-4'&gt;" + 
+"        &lt;div class='box-inner'&gt;" + 
+"            &lt;div class='mm-iframe-fr-yt'&gt;" + 
+"                &lt;a href='" +postUrl+"' title='" + postTitle + "'&gt;" + 
+"                    &lt;img alt='"+postTitle+"' src='https://i.ytimg.com/vi/" + v + "/mqdefault.jpg'/&gt;" + 
+"                    &lt;div class='icon_play'&gt;&lt;/div&gt;" + 
+"                &lt;/a&gt;" + 
+"            &lt;/div&gt;" + 
+"            &lt;div class='mm-video-info'&gt;" + 
+"                &lt;div class='mm-lockup-content'&gt;" + 
+"                    &lt;div class='mm-lockup-title'&gt;" + 
+"                        &lt;a class='mm-link-video' href='" + postUrl + "' title='"+postTitle+"'&gt;"+postTitle+"&lt;/a&gt;" + 
+"                    &lt;/div&gt;" + 
+"                &lt;/div&gt;" + 
+"            &lt;/div&gt;" + 
+"        &lt;/div&gt;" + 
+"    &lt;/div&gt;";
+
+ var item = tpl;
+     document.write(item);
+//alert(item);
+    }
+
+     
+    }
+  }
+//]]&gt;
+&lt;/script&gt;
+&lt;b:loop values='data:thisPost.labels' var='label'&gt;
+&lt;b:if cond='data:label.isLast'&gt;
+  &lt;script expr:src='&amp;quot;/feeds/posts/default/-/&amp;quot; + data:label.name +  &amp;quot;?max-results=5&amp;amp;alt=json-in-script&amp;amp;callback=mycallback&amp;quot;'/&gt;
+&lt;/b:if&gt;
+&lt;/b:loop&gt;
+
+
+                            &lt;/div&gt;
+                            
+                                                        &lt;!-- Facebook Comment --&gt;
+                            &lt;div id='mm-fb-comment-box'&gt;
+                                &lt;div class='fb-comments' data-numposts='5' data-width='769' expr:data-href='data:thisPost.url'/&gt;
+                                &lt;div id='fb-root'/&gt;
+                            &lt;/div&gt;
+                            
+                        &lt;/footer&gt;
+                    &lt;/article&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+&lt;!-- END LOOP SINGLE --&gt;                
+
+
+&lt;script type='text/javascript'&gt;
+var HP_IS_SINGLE = true;
+//&lt;![CDATA[
+// a bunch of previous code
+  function getYoutubeUrl() {
+var c = $('#watch-content-description').html();
+var p1 = c.indexOf('&lt;!--');
+var p2 = c.indexOf('--&gt;');
+    if (p1 != -1 &amp;&amp; p2 != -1) {
+var v = c.substring(p1 + 4, p2); // id video youtube
+
+var html = "&lt;iframe allowfullscreen='true' frameborder='0' src='https://www.youtube.com/embed/" +v+ "' style='width: 750px;height: 450px;' type='text/html'&gt;&lt;/iframe&gt;";
+
+$('#hp_youtube_screen').html(html);
+    }
+  }
+function echoYoutubeThumbnail(id) {
+var c = $('#home-post-' + id).html();
+var p1 = c.indexOf('&lt;!--');
+var p2 = c.indexOf('--&gt;');
+    if (p1 != -1 &amp;&amp; p2 != -1) {
+var v = c.substring(p1 + 4, p2); // id video youtube
+
+      var html = "IMAGE for video: " + v;
+var src = 'https://i.ytimg.com/vi/' +v+ '/mqdefault.jpg';
+$('#home-post-thumbnail-' + id).src(src);
+    }
+  }
+// a little more code
+//]]&gt;
+&lt;/script&gt;
+
+
+
+            &lt;/b:loop&gt;
+        &lt;/b:includable&gt;
+    &lt;b:includable id='backlinkDeleteIcon' var='backlink'&gt;
+  &lt;span expr:class='&amp;quot;item-control &amp;quot; + data:backlink.adminClass'&gt;
+    &lt;a expr:href='data:backlink.deleteUrl' expr:title='data:top.deleteBacklinkMsg'&gt;
+      &lt;img src='//www.blogger.com/img/icon_delete13.gif'/&gt;
+    &lt;/a&gt;
+  &lt;/span&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='backlinks' var='post'&gt;
+  &lt;a name='links'/&gt;&lt;h4&gt;&lt;data:post.backlinksLabel/&gt;&lt;/h4&gt;
+  &lt;b:if cond='data:post.numBacklinks != 0'&gt;
+    &lt;dl class='comments-block' id='comments-block'&gt;
+      &lt;b:loop values='data:post.backlinks' var='backlink'&gt;
+        &lt;div class='collapsed-backlink backlink-control'&gt;
+          &lt;dt class='comment-title'&gt;
+            &lt;span class='backlink-toggle-zippy'&gt;&amp;#160;&lt;/span&gt;
+            &lt;a expr:href='data:backlink.url' rel='nofollow'&gt;&lt;data:backlink.title/&gt;&lt;/a&gt;
+            &lt;b:include data='backlink' name='backlinkDeleteIcon'/&gt;
+          &lt;/dt&gt;
+          &lt;dd class='comment-body collapseable'&gt;
+            &lt;data:backlink.snippet/&gt;
+          &lt;/dd&gt;
+          &lt;dd class='comment-footer collapseable'&gt;
+            &lt;span class='comment-author'&gt;&lt;data:post.authorLabel/&gt; &lt;data:backlink.author/&gt;&lt;/span&gt;
+            &lt;span class='comment-timestamp'&gt;&lt;data:post.timestampLabel/&gt; &lt;data:backlink.timestamp/&gt;&lt;/span&gt;
+          &lt;/dd&gt;
+        &lt;/div&gt;
+      &lt;/b:loop&gt;
+    &lt;/dl&gt;
+  &lt;/b:if&gt;
+  &lt;p class='comment-footer'&gt;
+    &lt;a class='comment-link' expr:href='data:post.createLinkUrl' expr:id='data:widget.instanceId + &amp;quot;_backlinks-create-link&amp;quot;' target='_blank'&gt;&lt;data:post.createLinkLabel/&gt;&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='comment-form' var='post'&gt;
+  &lt;div class='comment-form'&gt;
+    &lt;a name='comment-form'/&gt;
+    &lt;b:if cond='data:mobile'&gt;
+      &lt;h4 id='comment-post-message'&gt;
+        &lt;a expr:id='data:widget.instanceId + &amp;quot;_comment-editor-toggle-link&amp;quot;' href='javascript:void(0)'&gt;&lt;data:postCommentMsg/&gt;&lt;/a&gt;&lt;/h4&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/&gt;
+    &lt;b:else/&gt;
+      &lt;h4 id='comment-post-message'&gt;&lt;data:postCommentMsg/&gt;&lt;/h4&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/&gt;
+    &lt;/b:if&gt;
+    &lt;data:post.friendConnectJs/&gt;
+    &lt;data:post.cmtfpIframe/&gt;
+    &lt;script type='text/javascript'&gt;
+      BLOG_CMT_createIframe(&amp;#39;&lt;data:post.appRpcRelayPath/&gt;&amp;#39;);
+    &lt;/script&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='commentDeleteIcon' var='comment'&gt;
+  &lt;span expr:class='&amp;quot;item-control &amp;quot; + data:comment.adminClass'&gt;
+    &lt;b:if cond='data:showCmtPopup'&gt;
+      &lt;div class='goog-toggle-button'&gt;
+        &lt;div class='goog-inline-block comment-action-icon'/&gt;
+      &lt;/div&gt;
+    &lt;b:else/&gt;
+      &lt;a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:top.deleteCommentMsg'&gt;
+        &lt;img src='//www.blogger.com/img/icon_delete13.gif'/&gt;
+      &lt;/a&gt;
+    &lt;/b:if&gt;
+  &lt;/span&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='comment_count_picker' var='post'&gt;
+  &lt;b:if cond='data:post.commentSource == 1'&gt;
+    &lt;span class='cmt_count_iframe_holder' expr:data-count='data:post.numComments' expr:data-onclick='data:post.addCommentOnclick' expr:data-post-url='data:post.url' expr:data-url='data:post.url.canonical.http'&gt;
+    &lt;/span&gt;
+  &lt;b:else/&gt;
+    &lt;a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'&gt;
+      &lt;data:post.commentLabelFull/&gt;:
+    &lt;/a&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='comment_picker' var='post'&gt;
+  &lt;b:if cond='data:post.commentSource == 1'&gt;
+    &lt;b:include data='post' name='iframe_comments'/&gt;
+  &lt;b:elseif cond='data:post.showThreadedComments'/&gt;
+    &lt;b:include data='post' name='threaded_comments'/&gt;
+  &lt;b:else/&gt;
+    &lt;b:include data='post' name='comments'/&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='comments' var='post'&gt;
+  &lt;div class='comments' id='comments'&gt;
+    &lt;a name='comments'/&gt;
+    &lt;b:if cond='data:post.allowComments'&gt;
+      &lt;h4&gt;&lt;data:post.commentLabelFull/&gt;:&lt;/h4&gt;
+
+      &lt;b:if cond='data:post.commentPagingRequired'&gt;
+        &lt;span class='paging-control-container'&gt;
+          &lt;b:if cond='data:post.hasOlderLinks'&gt;
+            &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'&gt;&lt;data:post.oldestLinkText/&gt;&lt;/a&gt;
+              &amp;#160;
+            &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'&gt;&lt;data:post.olderLinkText/&gt;&lt;/a&gt;
+              &amp;#160;
+          &lt;/b:if&gt;
+
+          &lt;data:post.commentRangeText/&gt;
+
+          &lt;b:if cond='data:post.hasNewerLinks'&gt;
+            &amp;#160;
+            &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'&gt;&lt;data:post.newerLinkText/&gt;&lt;/a&gt;
+            &amp;#160;
+            &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'&gt;&lt;data:post.newestLinkText/&gt;&lt;/a&gt;
+          &lt;/b:if&gt;
+        &lt;/span&gt;
+      &lt;/b:if&gt;
+
+      &lt;div expr:id='data:widget.instanceId + &amp;quot;_comments-block-wrapper&amp;quot;'&gt;
+        &lt;dl expr:class='data:post.avatarIndentClass' id='comments-block'&gt;
+          &lt;b:loop values='data:post.comments' var='comment'&gt;
+            &lt;dt expr:class='&amp;quot;comment-author &amp;quot; + data:comment.authorClass' expr:id='data:comment.anchorName'&gt;
+              &lt;b:if cond='data:comment.favicon'&gt;
+                &lt;img expr:src='data:comment.favicon' height='16px' style='margin-bottom:-2px;' width='16px'/&gt;
+              &lt;/b:if&gt;
+              &lt;a expr:name='data:comment.anchorName'/&gt;
+              &lt;b:if cond='data:blog.enabledCommentProfileImages'&gt;
+                &lt;data:comment.authorAvatarImage/&gt;
+              &lt;/b:if&gt;
+              &lt;b:if cond='data:comment.authorUrl'&gt;
+                &lt;a expr:href='data:comment.authorUrl' rel='nofollow'&gt;&lt;data:comment.author/&gt;&lt;/a&gt;
+              &lt;b:else/&gt;
+                &lt;data:comment.author/&gt;
+              &lt;/b:if&gt;
+              &lt;data:commentPostedByMsg/&gt;
+            &lt;/dt&gt;
+            &lt;dd class='comment-body' expr:id='data:widget.instanceId + data:comment.cmtBodyIdPostfix'&gt;
+              &lt;b:if cond='data:comment.isDeleted'&gt;
+                &lt;span class='deleted-comment'&gt;&lt;data:comment.body/&gt;&lt;/span&gt;
+              &lt;b:else/&gt;
+                &lt;p&gt;
+                  &lt;data:comment.body/&gt;
+                &lt;/p&gt;
+              &lt;/b:if&gt;
+            &lt;/dd&gt;
+            &lt;dd class='comment-footer'&gt;
+              &lt;span class='comment-timestamp'&gt;
+                &lt;a expr:href='data:comment.url' title='comment permalink'&gt;
+                  &lt;data:comment.timestamp/&gt;
+                &lt;/a&gt;
+                &lt;b:include data='comment' name='commentDeleteIcon'/&gt;
+              &lt;/span&gt;
+            &lt;/dd&gt;
+          &lt;/b:loop&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;b:if cond='data:post.commentPagingRequired'&gt;
+        &lt;span class='paging-control-container'&gt;
+          &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'&gt;
+            &lt;data:post.oldestLinkText/&gt;
+          &lt;/a&gt;
+          &lt;a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'&gt;
+            &lt;data:post.olderLinkText/&gt;
+          &lt;/a&gt;
+          &amp;#160;
+          &lt;data:post.commentRangeText/&gt;
+          &amp;#160;
+          &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'&gt;
+            &lt;data:post.newerLinkText/&gt;
+          &lt;/a&gt;
+          &lt;a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'&gt;
+            &lt;data:post.newestLinkText/&gt;
+          &lt;/a&gt;
+        &lt;/span&gt;
+      &lt;/b:if&gt;
+
+      &lt;p class='comment-footer'&gt;
+        &lt;b:if cond='data:post.embedCommentForm'&gt;
+          &lt;b:if cond='data:post.allowNewComments'&gt;
+            &lt;b:include data='post' name='comment-form'/&gt;
+          &lt;b:else/&gt;
+            &lt;data:post.noNewCommentsText/&gt;
+          &lt;/b:if&gt;
+        &lt;b:elseif cond='data:post.allowComments'/&gt;
+          &lt;a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'&gt;&lt;data:postCommentMsg/&gt;&lt;/a&gt;
+        &lt;/b:if&gt;
+      &lt;/p&gt;
+    &lt;/b:if&gt;
+    &lt;b:if cond='data:showCmtPopup'&gt;
+      &lt;div id='comment-popup'&gt;
+        &lt;iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'&gt;
+        &lt;/iframe&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div id='backlinks-container'&gt;
+    &lt;div expr:id='data:widget.instanceId + &amp;quot;_backlinks-container&amp;quot;'&gt;
+       &lt;b:include cond='data:post.showBacklinks' data='post' name='backlinks'/&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='feedLinks'&gt;
+  &lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot;'&gt; &lt;!-- Blog feed links --&gt;
+    &lt;b:if cond='data:feedLinks'&gt;
+      &lt;div class='blog-feeds'&gt;
+        &lt;b:include data='feedLinks' name='feedLinksBody'/&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+  &lt;b:else/&gt; &lt;!--Post feed links --&gt;
+    &lt;div class='post-feeds'&gt;
+      &lt;b:loop values='data:posts' var='post'&gt;
+        &lt;b:include cond='data:post.allowComments and data:post.feedLinks' data='post.feedLinks' name='feedLinksBody'/&gt;
+      &lt;/b:loop&gt;
+    &lt;/div&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='feedLinksBody' var='links'&gt;
+  &lt;div class='feed-links'&gt;
+  &lt;data:feedLinksMsg/&gt;
+  &lt;b:loop values='data:links' var='f'&gt;
+     &lt;a class='feed-link' expr:href='data:f.url' expr:type='data:f.mimeType' target='_blank'&gt;&lt;data:f.name/&gt; (&lt;data:f.feedType/&gt;)&lt;/a&gt;
+  &lt;/b:loop&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='iframe_comments' var='post'&gt;
+
+  &lt;b:if cond='data:post.allowIframeComments'&gt;
+    &lt;script expr:src='data:post.iframeCommentSrc' type='text/javascript'/&gt;
+    &lt;div class='cmt_iframe_holder' expr:data-href='data:post.url.canonical' expr:data-viewtype='data:post.viewType'/&gt;
+
+    &lt;b:if cond='data:post.embedCommentForm == &amp;quot;false&amp;quot;'&gt;
+      &lt;a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'&gt;&lt;data:postCommentMsg/&gt;&lt;/a&gt;
+    &lt;/b:if&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='mobile-index-post' var='post'&gt;
+  &lt;div class='mobile-date-outer date-outer'&gt;
+    &lt;b:if cond='data:post.dateHeader'&gt;
+      &lt;div class='date-header'&gt;
+        &lt;span&gt;&lt;data:post.dateHeader/&gt;&lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='mobile-post-outer'&gt;
+      &lt;a expr:href='data:post.url'&gt;
+        &lt;h3 class='mobile-index-title entry-title' itemprop='name'&gt;
+          &lt;data:post.title/&gt;
+        &lt;/h3&gt;
+
+        &lt;div class='mobile-index-arrow'&gt;&amp;amp;rsaquo;&lt;/div&gt;
+
+        &lt;div class='mobile-index-contents'&gt;
+          &lt;b:if cond='data:post.thumbnailUrl'&gt;
+            &lt;div class='mobile-index-thumbnail'&gt;
+              &lt;div class='Image'&gt;
+                &lt;img expr:src='data:post.thumbnailUrl'/&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/b:if&gt;
+
+          &lt;div class='post-body'&gt;
+            &lt;b:if cond='data:post.snippet'&gt;&lt;data:post.snippet/&gt;&lt;/b:if&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div style='clear: both;'/&gt;
+      &lt;/a&gt;
+
+      &lt;div class='mobile-index-comment'&gt;
+        &lt;b:include cond='data:blog.pageType != &amp;quot;static_page&amp;quot;                          and data:post.allowComments                          and data:post.numComments != 0' data='post' name='comment_count_picker'/&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='mobile-main' var='top'&gt;
+    &lt;!-- posts --&gt;
+    &lt;div class='blog-posts hfeed'&gt;
+
+      &lt;b:include data='top' name='status-message'/&gt;
+
+      &lt;b:if cond='data:blog.pageType == &amp;quot;index&amp;quot;'&gt;
+        &lt;b:loop values='data:posts' var='post'&gt;
+          &lt;b:include data='post' name='mobile-index-post'/&gt;
+        &lt;/b:loop&gt;
+      &lt;b:else/&gt;
+        &lt;b:loop values='data:posts' var='post'&gt;
+          &lt;b:include data='post' name='mobile-post'/&gt;
+        &lt;/b:loop&gt;
+      &lt;/b:if&gt;
+    &lt;/div&gt;
+
+   &lt;b:include name='mobile-nextprev'/&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='mobile-nextprev'&gt;
+  &lt;div class='blog-pager' id='blog-pager'&gt;
+    &lt;b:if cond='data:newerPageUrl'&gt;
+      &lt;div class='mobile-link-button' id='blog-pager-newer-link'&gt;
+      &lt;a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-newer-link&amp;quot;' expr:title='data:newerPageTitle'&gt;&amp;amp;lsaquo;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;b:if cond='data:olderPageUrl'&gt;
+      &lt;div class='mobile-link-button' id='blog-pager-older-link'&gt;
+      &lt;a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-older-link&amp;quot;' expr:title='data:olderPageTitle'&gt;&amp;amp;rsaquo;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='mobile-link-button' id='blog-pager-home-link'&gt;
+    &lt;a class='home-link' expr:href='data:blog.homepageUrl'&gt;&lt;data:homeMsg/&gt;&lt;/a&gt;
+    &lt;/div&gt;
+
+    &lt;div class='mobile-desktop-link'&gt;
+      &lt;a class='home-link' expr:href='data:desktopLinkUrl'&gt;&lt;data:desktopLinkMsg/&gt;&lt;/a&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+  &lt;div class='clear'/&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='mobile-post' var='post'&gt;
+  &lt;div class='date-outer'&gt;
+    &lt;b:if cond='data:post.dateHeader'&gt;
+      &lt;h2 class='date-header'&gt;&lt;span&gt;&lt;data:post.dateHeader/&gt;&lt;/span&gt;&lt;/h2&gt;
+    &lt;/b:if&gt;
+    &lt;div class='date-posts'&gt;
+      &lt;div class='post-outer'&gt;
+
+        &lt;div class='post hentry uncustomized-post-template' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'&gt;
+          &lt;b:if cond='data:post.thumbnailUrl'&gt;
+            &lt;meta expr:content='data:post.thumbnailUrl' itemprop='image_url'/&gt;
+          &lt;/b:if&gt;
+          &lt;meta expr:content='data:blog.blogId' itemprop='blogId'/&gt;
+          &lt;meta expr:content='data:post.id' itemprop='postId'/&gt;
+
+          &lt;a expr:name='data:post.id'/&gt;
+          &lt;b:if cond='data:post.title'&gt;
+            &lt;h3 class='post-title entry-title' itemprop='name'&gt;
+              &lt;b:if cond='data:post.link'&gt;
+                &lt;a expr:href='data:post.link'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+              &lt;b:elseif cond='data:post.url and data:blog.url != data:post.url'/&gt;
+                &lt;a expr:href='data:post.url'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+              &lt;b:else/&gt;
+                &lt;data:post.title/&gt;
+              &lt;/b:if&gt;
+            &lt;/h3&gt;
+          &lt;/b:if&gt;
+
+          &lt;div class='post-header'&gt;
+            &lt;div class='post-header-line-1'/&gt;
+          &lt;/div&gt;
+
+          &lt;div class='post-body entry-content' expr:id='&amp;quot;post-body-&amp;quot; + data:post.id' itemprop='articleBody'&gt;
+            &lt;data:post.body/&gt;
+            &lt;div style='clear: both;'/&gt; &lt;!-- clear for photos floats --&gt;
+          &lt;/div&gt;
+
+          &lt;div class='post-footer'&gt;
+            &lt;div class='post-footer-line post-footer-line-1'&gt;
+              &lt;span class='post-author vcard'&gt;
+                &lt;b:if cond='data:top.showAuthor'&gt;
+                  &lt;b:if cond='data:post.authorProfileUrl'&gt;
+                    &lt;span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'&gt;
+                      &lt;meta expr:content='data:post.authorProfileUrl' itemprop='url'/&gt;
+                      &lt;a expr:href='data:post.authorProfileUrl' rel='author' title='author profile'&gt;
+                        &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+                      &lt;/a&gt;
+                    &lt;/span&gt;
+                  &lt;b:else/&gt;
+                    &lt;span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'&gt;
+                      &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+                    &lt;/span&gt;
+                  &lt;/b:if&gt;
+                &lt;/b:if&gt;
+              &lt;/span&gt;
+
+              &lt;span class='post-timestamp'&gt;
+                &lt;b:if cond='data:top.showTimestamp'&gt;
+                  &lt;data:top.timestampLabel/&gt;
+                  &lt;b:if cond='data:post.url'&gt;
+                    &lt;meta expr:content='data:post.url.canonical' itemprop='url'/&gt;
+                    &lt;a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'&gt;&lt;abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'&gt;&lt;data:post.timestamp/&gt;&lt;/abbr&gt;&lt;/a&gt;
+                  &lt;/b:if&gt;
+                &lt;/b:if&gt;
+              &lt;/span&gt;
+
+              &lt;span class='post-comment-link'&gt;
+                &lt;b:include cond='data:blog.pageType not in {&amp;quot;item&amp;quot;,&amp;quot;static_page&amp;quot;}                                  and data:post.allowComments' data='post' name='comment_count_picker'/&gt;
+              &lt;/span&gt;
+            &lt;/div&gt;
+
+            &lt;div class='post-footer-line post-footer-line-2'&gt;
+              &lt;b:if cond='data:top.showMobileShare'&gt;
+                &lt;div class='mobile-link-button goog-inline-block' id='mobile-share-button'&gt;
+                  &lt;a href='javascript:void(0);'&gt;&lt;data:shareMsg/&gt;&lt;/a&gt;
+                &lt;/div&gt;
+              &lt;/b:if&gt;
+              &lt;b:if cond='data:top.showDummy'&gt;
+                &lt;div class='goog-inline-block dummy-container'&gt;&lt;data:post.dummyTag/&gt;&lt;/div&gt;
+              &lt;/b:if&gt;
+            &lt;/div&gt;
+
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;b:include cond='data:blog.pageType in {&amp;quot;static_page&amp;quot;,&amp;quot;item&amp;quot;}' data='post' name='comment_picker'/&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='nextprev'&gt;
+  &lt;div class='blog-pager' id='blog-pager'&gt;
+    &lt;b:if cond='data:newerPageUrl'&gt;
+      &lt;span id='blog-pager-newer-link'&gt;
+      &lt;a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-newer-link&amp;quot;' expr:title='data:newerPageTitle'&gt;&lt;data:newerPageTitle/&gt;&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/b:if&gt;
+
+    &lt;b:if cond='data:olderPageUrl'&gt;
+      &lt;span id='blog-pager-older-link'&gt;
+      &lt;a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-older-link&amp;quot;' expr:title='data:olderPageTitle'&gt;&lt;data:olderPageTitle/&gt;&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/b:if&gt;
+
+    &lt;a class='home-link' expr:href='data:blog.homepageUrl'&gt;&lt;data:homeMsg/&gt;&lt;/a&gt;
+
+    &lt;b:if cond='data:mobileLinkUrl'&gt;
+      &lt;div class='blog-mobile-link'&gt;
+        &lt;a expr:href='data:mobileLinkUrl'&gt;&lt;data:mobileLinkMsg/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+  &lt;/div&gt;
+  &lt;div class='clear'/&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='post' var='post'&gt;
+  &lt;div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'&gt;
+    &lt;b:if cond='data:post.firstImageUrl'&gt;
+      &lt;meta expr:content='data:post.firstImageUrl' itemprop='image_url'/&gt;
+    &lt;/b:if&gt;
+    &lt;meta expr:content='data:blog.blogId' itemprop='blogId'/&gt;
+    &lt;meta expr:content='data:post.id' itemprop='postId'/&gt;
+
+    &lt;a expr:name='data:post.id'/&gt;
+    &lt;b:if cond='data:post.title'&gt;
+      &lt;h3 class='post-title entry-title' itemprop='name'&gt;
+      &lt;b:if cond='data:post.link or (data:post.url and data:blog.url != data:post.url)'&gt;
+        &lt;a expr:href='data:post.link ? data:post.link : data:post.url'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+      &lt;b:else/&gt;
+        &lt;data:post.title/&gt;
+      &lt;/b:if&gt;
+      &lt;/h3&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='post-header'&gt;
+    &lt;div class='post-header-line-1'/&gt;
+    &lt;/div&gt;
+
+    &lt;!-- Then use the post body as the schema.org description, for good G+/FB snippeting. --&gt;
+    &lt;div class='post-body entry-content' expr:id='&amp;quot;post-body-&amp;quot; + data:post.id' expr:itemprop='(data:blog.metaDescription ? &amp;quot;&amp;quot; : &amp;quot;description &amp;quot;) + &amp;quot;articleBody&amp;quot;'&gt;
+      &lt;data:post.body/&gt;
+      &lt;div style='clear: both;'/&gt; &lt;!-- clear for photos floats --&gt;
+    &lt;/div&gt;
+
+    &lt;b:if cond='data:post.hasJumpLink'&gt;
+      &lt;div class='jump-link'&gt;
+        &lt;a expr:href='data:post.url + &amp;quot;#more&amp;quot;' expr:title='data:post.title'&gt;&lt;data:post.jumpText/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='post-footer'&gt;
+    &lt;div class='post-footer-line post-footer-line-1'&gt;
+      &lt;span class='post-author vcard'&gt;
+        &lt;b:if cond='data:top.showAuthor'&gt;
+          &lt;data:top.authorLabel/&gt;
+            &lt;b:if cond='data:post.authorProfileUrl'&gt;
+              &lt;span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'&gt;
+                &lt;meta expr:content='data:post.authorProfileUrl' itemprop='url'/&gt;
+                &lt;a class='g-profile' expr:href='data:post.authorProfileUrl' rel='author' title='author profile'&gt;
+                  &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+                &lt;/a&gt;
+              &lt;/span&gt;
+            &lt;b:else/&gt;
+              &lt;span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'&gt;
+                &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+              &lt;/span&gt;
+            &lt;/b:if&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+
+      &lt;span class='post-timestamp'&gt;
+        &lt;b:if cond='data:top.showTimestamp'&gt;
+          &lt;data:top.timestampLabel/&gt;
+          &lt;b:if cond='data:post.url'&gt;
+            &lt;meta expr:content='data:post.url.canonical' itemprop='url'/&gt;
+            &lt;a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'&gt;&lt;abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'&gt;&lt;data:post.timestamp/&gt;&lt;/abbr&gt;&lt;/a&gt;
+          &lt;/b:if&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+
+      &lt;span class='reaction-buttons'&gt;
+        &lt;b:if cond='data:top.showReactions'&gt;
+          &lt;table border='0' cellpadding='0' cellspacing='0' width='100%'&gt;&lt;tr&gt;
+            &lt;td class='reactions-label-cell' nowrap='nowrap' valign='top' width='1%'&gt;
+              &lt;span class='reactions-label'&gt;
+              &lt;data:top.reactionsLabel/&gt;&lt;/span&gt;&amp;#160;&lt;/td&gt;
+            &lt;td&gt;&lt;iframe allowtransparency='true' class='reactions-iframe' expr:src='data:post.reactionsUrl' frameborder='0' name='reactions' scrolling='no'/&gt;&lt;/td&gt;
+           &lt;/tr&gt;&lt;/table&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+
+      &lt;span class='post-comment-link'&gt;
+        &lt;b:include cond='data:blog.pageType not in {&amp;quot;item&amp;quot;,&amp;quot;static_page&amp;quot;}                          and data:post.allowComments' data='post' name='comment_count_picker'/&gt;
+      &lt;/span&gt;
+
+       &lt;!-- backlinks --&gt;
+       &lt;span class='post-backlinks post-comment-link'&gt;
+         &lt;b:if cond='data:blog.pageType not in {&amp;quot;item&amp;quot;,&amp;quot;static_page&amp;quot;}                      and data:post.showBacklinks'&gt;
+           &lt;a class='comment-link' expr:href='data:post.url + &amp;quot;#links&amp;quot;'&gt;&lt;data:top.backlinkLabel/&gt;&lt;/a&gt;
+         &lt;/b:if&gt;
+       &lt;/span&gt;
+
+      &lt;span class='post-icons'&gt;
+        &lt;!-- email post links --&gt;
+        &lt;b:if cond='data:post.emailPostUrl'&gt;
+          &lt;span class='item-action'&gt;
+          &lt;a expr:href='data:post.emailPostUrl' expr:title='data:top.emailPostMsg'&gt;
+            &lt;img alt='' class='icon-action' height='13' src='//img1.blogblog.com/img/icon18_email.gif' width='18'/&gt;
+          &lt;/a&gt;
+          &lt;/span&gt;
+        &lt;/b:if&gt;
+
+        &lt;!-- quickedit pencil --&gt;
+        &lt;b:include data='post' name='postQuickEdit'/&gt;
+      &lt;/span&gt;
+
+      &lt;!-- share buttons --&gt;
+      &lt;div class='post-share-buttons goog-inline-block'&gt;
+        &lt;b:include cond='data:post.sharePostUrl' data='post' name='shareButtons'/&gt;
+      &lt;/div&gt;
+
+      &lt;/div&gt;
+
+      &lt;div class='post-footer-line post-footer-line-2'&gt;
+      &lt;span class='post-labels'&gt;
+        &lt;b:if cond='data:top.showPostLabels and data:post.labels'&gt;
+          &lt;data:postLabelsLabel/&gt;
+          &lt;b:loop values='data:post.labels' var='label'&gt;
+            &lt;a expr:href='data:label.url' rel='tag'&gt;&lt;data:label.name/&gt;&lt;/a&gt;&lt;b:if cond='not data:label.isLast'&gt;,&lt;/b:if&gt;
+          &lt;/b:loop&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+      &lt;/div&gt;
+
+      &lt;div class='post-footer-line post-footer-line-3'&gt;
+      &lt;span class='post-location'&gt;
+        &lt;b:if cond='data:top.showLocation and data:post.location'&gt;
+          &lt;data:postLocationLabel/&gt;
+          &lt;a expr:href='data:post.location.mapsUrl' target='_blank'&gt;&lt;data:post.location.name/&gt;&lt;/a&gt;
+        &lt;/b:if&gt;
+      &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;b:if cond='data:post.authorAboutMe'&gt;
+        &lt;div class='author-profile' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'&gt;
+          &lt;b:if cond='data:post.authorPhoto.url'&gt;
+            &lt;img expr:src='data:post.authorPhoto.url' itemprop='image' width='50px'/&gt;
+          &lt;/b:if&gt;
+          &lt;div&gt;
+            &lt;a class='g-profile' expr:href='data:post.authorProfileUrl' itemprop='url' rel='author' title='author profile'&gt;
+              &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+          &lt;span itemprop='description'&gt;&lt;data:post.authorAboutMe/&gt;&lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/b:if&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='postQuickEdit' var='post'&gt;
+  &lt;b:if cond='data:post.editUrl'&gt;
+    &lt;span expr:class='&amp;quot;item-control &amp;quot; + data:post.adminClass'&gt;
+      &lt;a expr:href='data:post.editUrl' expr:title='data:top.editPostMsg'&gt;
+        &lt;img alt='' class='icon-action' height='18' src='//img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/&gt;
+      &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='shareButtons' var='post'&gt;
+  &lt;b:if cond='data:top.showEmailButton'&gt;&lt;a class='goog-inline-block share-button sb-email' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=email&amp;quot;' expr:title='data:top.emailThisMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.emailThisMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showBlogThisButton'&gt;&lt;a class='goog-inline-block share-button sb-blog' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=blog&amp;quot;' expr:onclick='&amp;quot;window.open(this.href, \&amp;quot;_blank\&amp;quot;, \&amp;quot;height=270,width=475\&amp;quot;); return false;&amp;quot;' expr:title='data:top.blogThisMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.blogThisMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showTwitterButton'&gt;&lt;a class='goog-inline-block share-button sb-twitter' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=twitter&amp;quot;' expr:title='data:top.shareToTwitterMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.shareToTwitterMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showFacebookButton'&gt;&lt;a class='goog-inline-block share-button sb-facebook' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=facebook&amp;quot;' expr:onclick='&amp;quot;window.open(this.href, \&amp;quot;_blank\&amp;quot;, \&amp;quot;height=430,width=640\&amp;quot;); return false;&amp;quot;' expr:title='data:top.shareToFacebookMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.shareToFacebookMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showPinterestButton'&gt;&lt;a class='goog-inline-block share-button sb-pinterest' expr:href='data:post.sharePostUrl + &amp;quot;&amp;amp;target=pinterest&amp;quot;' expr:title='data:top.shareToPinterestMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.shareToPinterestMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showPlusOne'&gt;&lt;div class='goog-inline-block google-plus-share-container'&gt;&lt;data:post.googlePlusShareTag/&gt;&lt;/div&gt;&lt;/b:if&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='status-message'&gt;
+  &lt;b:if cond='data:navMessage'&gt;
+  &lt;div class='status-msg-wrap'&gt;
+    &lt;div class='status-msg-body'&gt;
+      &lt;data:navMessage/&gt;
+    &lt;/div&gt;
+    &lt;div class='status-msg-border'&gt;
+      &lt;div class='status-msg-bg'&gt;
+        &lt;div class='status-msg-hidden'&gt;&lt;data:navMessage/&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div style='clear: both;'/&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='threaded-comment-form' var='post'&gt;
+  &lt;div class='comment-form'&gt;
+    &lt;a name='comment-form'/&gt;
+    &lt;b:if cond='data:mobile'&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/&gt;
+    &lt;b:else/&gt;
+      &lt;p&gt;&lt;data:blogCommentMessage/&gt;&lt;/p&gt;
+      &lt;data:blogTeamBlogMessage/&gt;
+      &lt;a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/&gt;
+      &lt;iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/&gt;
+    &lt;/b:if&gt;
+    &lt;data:post.friendConnectJs/&gt;
+    &lt;data:post.cmtfpIframe/&gt;
+    &lt;script type='text/javascript'&gt;
+      BLOG_CMT_createIframe(&amp;#39;&lt;data:post.appRpcRelayPath/&gt;&amp;#39;);
+    &lt;/script&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='threaded_comment_js' var='post'&gt;
+  &lt;script async='async' expr:src='data:post.commentSrc' type='text/javascript'/&gt;
+
+  &lt;script type='text/javascript'&gt;
+    (function() {
+      var items = &lt;data:post.commentJso/&gt;;
+      var msgs = &lt;data:post.commentMsgs/&gt;;
+      var config = &lt;data:post.commentConfig/&gt;;
+
+// &lt;![CDATA[
+      var cursor = null;
+      if (items &amp;&amp; items.length &gt; 0) {
+        cursor = parseInt(items[items.length - 1].timestamp) + 1;
+      }
+
+      var bodyFromEntry = function(entry) {
+        if (entry.gd$extendedProperty) {
+          for (var k in entry.gd$extendedProperty) {
+            if (entry.gd$extendedProperty[k].name == 'blogger.contentRemoved') {
+              return '&lt;span class="deleted-comment"&gt;' + entry.content.$t + '&lt;/span&gt;';
+            }
+          }
+        }
+        return entry.content.$t;
+      }
+
+      var parse = function(data) {
+        cursor = null;
+        var comments = [];
+        if (data &amp;&amp; data.feed &amp;&amp; data.feed.entry) {
+          for (var i = 0, entry; entry = data.feed.entry[i]; i++) {
+            var comment = {};
+            // comment ID, parsed out of the original id format
+            var id = /blog-(\d+).post-(\d+)/.exec(entry.id.$t);
+            comment.id = id ? id[2] : null;
+            comment.body = bodyFromEntry(entry);
+            comment.timestamp = Date.parse(entry.published.$t) + '';
+            if (entry.author &amp;&amp; entry.author.constructor === Array) {
+              var auth = entry.author[0];
+              if (auth) {
+                comment.author = {
+                  name: (auth.name ? auth.name.$t : undefined),
+                  profileUrl: (auth.uri ? auth.uri.$t : undefined),
+                  avatarUrl: (auth.gd$image ? auth.gd$image.src : undefined)
+                };
+              }
+            }
+            if (entry.link) {
+              if (entry.link[2]) {
+                comment.link = comment.permalink = entry.link[2].href;
+              }
+              if (entry.link[3]) {
+                var pid = /.*comments\/default\/(\d+)\?.*/.exec(entry.link[3].href);
+                if (pid &amp;&amp; pid[1]) {
+                  comment.parentId = pid[1];
+                }
+              }
+            }
+            comment.deleteclass = 'item-control blog-admin';
+            if (entry.gd$extendedProperty) {
+              for (var k in entry.gd$extendedProperty) {
+                if (entry.gd$extendedProperty[k].name == 'blogger.itemClass') {
+                  comment.deleteclass += ' ' + entry.gd$extendedProperty[k].value;
+                } else if (entry.gd$extendedProperty[k].name == 'blogger.displayTime') {
+                  comment.displayTime = entry.gd$extendedProperty[k].value;
+                }
+              }
+            }
+            comments.push(comment);
+          }
+        }
+        return comments;
+      };
+
+      var paginator = function(callback) {
+        if (hasMore()) {
+          var url = config.feed + '?alt=json&amp;v=2&amp;orderby=published&amp;reverse=false&amp;max-results=50';
+          if (cursor) {
+            url += '&amp;published-min=' + new Date(cursor).toISOString();
+          }
+          window.bloggercomments = function(data) {
+            var parsed = parse(data);
+            cursor = parsed.length &lt; 50 ? null
+                : parseInt(parsed[parsed.length - 1].timestamp) + 1
+            callback(parsed);
+            window.bloggercomments = null;
+          }
+          url += '&amp;callback=bloggercomments';
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = url;
+          document.getElementsByTagName('head')[0].appendChild(script);
+        }
+      };
+      var hasMore = function() {
+        return !!cursor;
+      };
+      var getMeta = function(key, comment) {
+        if ('iswriter' == key) {
+          var matches = !!comment.author
+              &amp;&amp; comment.author.name == config.authorName
+              &amp;&amp; comment.author.profileUrl == config.authorUrl;
+          return matches ? 'true' : '';
+        } else if ('deletelink' == key) {
+          return config.baseUri + '/delete-comment.g?blogID='
+               + config.blogId + '&amp;postID=' + comment.id;
+        } else if ('deleteclass' == key) {
+          return comment.deleteclass;
+        }
+        return '';
+      };
+
+      var replybox = null;
+      var replyUrlParts = null;
+      var replyParent = undefined;
+
+      var onReply = function(commentId, domId) {
+        if (replybox == null) {
+          // lazily cache replybox, and adjust to suit this style:
+          replybox = document.getElementById('comment-editor');
+          if (replybox != null) {
+            replybox.height = '250px';
+            replybox.style.display = 'block';
+            replyUrlParts = replybox.src.split('#');
+          }
+        }
+        if (replybox &amp;&amp; (commentId !== replyParent)) {
+          replybox.src = '';
+          document.getElementById(domId).insertBefore(replybox, null);
+          replybox.src = replyUrlParts[0]
+              + (commentId ? '&amp;parentID=' + commentId : '')
+              + '#' + replyUrlParts[1];
+          replyParent = commentId;
+        }
+      };
+
+      var hash = (window.location.hash || '#').substring(1);
+      var startThread, targetComment;
+      if (/^comment-form_/.test(hash)) {
+        startThread = hash.substring('comment-form_'.length);
+      } else if (/^c[0-9]+$/.test(hash)) {
+        targetComment = hash.substring(1);
+      }
+
+      // Configure commenting API:
+      var configJso = {
+        'maxDepth': config.maxThreadDepth
+      };
+      var provider = {
+        'id': config.postId,
+        'data': items,
+        'loadNext': paginator,
+        'hasMore': hasMore,
+        'getMeta': getMeta,
+        'onReply': onReply,
+        'rendered': true,
+        'initComment': targetComment,
+        'initReplyThread': startThread,
+        'config': configJso,
+        'messages': msgs
+      };
+
+      var render = function() {
+        if (window.goog &amp;&amp; window.goog.comments) {
+          var holder = document.getElementById('comment-holder');
+          window.goog.comments.render(holder, provider);
+        }
+      };
+
+      // render now, or queue to render when library loads:
+      if (window.goog &amp;&amp; window.goog.comments) {
+        render();
+      } else {
+        window.goog = window.goog || {};
+        window.goog.comments = window.goog.comments || {};
+        window.goog.comments.loadQueue = window.goog.comments.loadQueue || [];
+        window.goog.comments.loadQueue.push(render);
+      }
+    })();
+// ]]&gt;
+  &lt;/script&gt;
+&lt;/b:includable&gt;
+    &lt;b:includable id='threaded_comments' var='post'&gt;
+  &lt;div class='comments' id='comments'&gt;
+    &lt;a name='comments'/&gt;
+    &lt;h4&gt;&lt;data:post.commentLabelFull/&gt;:&lt;/h4&gt;
+
+    &lt;div class='comments-content'&gt;
+      &lt;b:include cond='data:post.embedCommentForm' data='post' name='threaded_comment_js'/&gt;
+      &lt;div id='comment-holder'&gt;
+         &lt;data:post.commentHtml/&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;p class='comment-footer'&gt;
+      &lt;b:if cond='data:post.allowNewComments'&gt;
+        &lt;b:include data='post' name='threaded-comment-form'/&gt;
+      &lt;b:else/&gt;
+        &lt;data:post.noNewCommentsText/&gt;
+      &lt;/b:if&gt;
+    &lt;/p&gt;
+
+    &lt;b:if cond='data:showCmtPopup'&gt;
+      &lt;div id='comment-popup'&gt;
+        &lt;iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'&gt;
+        &lt;/iframe&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div id='backlinks-container'&gt;
+    &lt;div expr:id='data:widget.instanceId + &amp;quot;_backlinks-container&amp;quot;'&gt;
+      &lt;b:include cond='data:post.showBacklinks' data='post' name='backlinks'/&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+  &lt;/b:widget&gt;
+&lt;/b:section&gt;
+&lt;!-- End single --&gt;
+
+          &lt;/b:if&gt;
+				&lt;!--End content--&gt;
+            
+            &lt;!--Sidebar--&gt;
+            &lt;aside class='col-xs-12 col-sm-4 col-md-4' id='sidebar'&gt;
+                &lt;div class='sidebar-inner'&gt;
+                
+                &lt;div class='banner-336x280 mm-banner-ads'&gt;
+        
+        
+        &lt;div id='ads_script_4' style='width:336px;height:280px;margin:0px 0px 0px 0px;display: inline-block;'&gt;
+&lt;img src='http://diennuocdaiphong.com/web/images/banner.png'/&gt;
+&lt;/div&gt;
+        
+    
+                &lt;/div&gt;
+                &lt;div class='video-sidebar' id='top-video-sidebar'&gt;
+        &lt;div class='box-inner'&gt;
+				&lt;!-- BEGIN CLONE TOP HOT --&gt;
+&lt;b:section id='clone_top_hot'&gt;
+  &lt;b:widget id='PopularPosts1' locked='false' title='Popular Posts' type='PopularPosts' version='1' visible='true'&gt;
+    &lt;b:includable id='main'&gt;
+  
+  &lt;div class='widget-content popular-posts'&gt;
+&lt;h3 class='sidebar-title'&gt;
+                        &lt;span class='mm-link-video sidebar-title-text'&gt;
+                            Nhiều người xem                       &lt;/span&gt;
+                &lt;/h3&gt;
+    &lt;ul class='mm-video-hot list-video'&gt;
+      &lt;b:loop values='data:posts' var='post'&gt;
+      &lt;li class='video-list-item hot-list-item show-video-view'&gt;        
+
+                                &lt;div class='content-wrapper'&gt;
+                                        &lt;a class='mm-hot-link-video mm-link-video' expr:href='data:post.href' expr:title='data:post.title'&gt;
+                                          &lt;span class='title' expr:data-hihi-id='data:post.id'&gt;&lt;data:post.title/&gt;&lt;/span&gt;
+                                        &lt;/a&gt;
+                                        &lt;div class='mm-lockup-meta'&gt;
+                                            &lt;ul class='mm-lockup-meta-info clearfix'&gt;
+                                                &lt;li&gt;&lt;i class='fa fa-eye'/&gt; 69,696&lt;/li&gt;
+                                                &lt;li&gt;&lt;i class='fa fa-comment-o'/&gt; 9&lt;/li&gt;
+                                                &lt;li&gt;&lt;i class='fa fa-thumbs-o-up'/&gt; 6&lt;/li&gt;
+                                            &lt;/ul&gt;
+                                        &lt;/div&gt;
+                                   
+                                &lt;/div&gt;
+                                &lt;div class='thumb-wrapper'&gt;
+                                    &lt;a class='thumb-link mm-thumb-link-video' expr:href='data:post.href' expr:title='data:post.title' tabindex='-1'&gt;
+                                        &lt;span class='mm-thum-wrap' data-mmid='cuR32EFa0dc' tabindex='0'&gt;&lt;img expr:alt='data:post.title' src='https://i.ytimg.com/vi/cuR32EFa0dc/mqdefault.jpg' width='120'/&gt;&lt;/span&gt;
+                                    &lt;/a&gt;
+                                &lt;/div&gt;
+
+&lt;!-- hack avatar --&gt;
+&lt;script expr:src='&amp;quot;/feeds/posts/default?orderby=published&amp;amp;alt=json&amp;amp;callback=echoPostByTitle&amp;amp;q=&amp;quot; + data:post.title'/&gt;
+&lt;!-- end hack avatar --&gt;
+
+                            &lt;/li&gt;
+      &lt;/b:loop&gt;
+    &lt;/ul&gt;
+    &lt;b:include name='quickedit'/&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+  &lt;/b:widget&gt;
+&lt;/b:section&gt;
+				&lt;!-- END CLONE TOP HOT --&gt;
+        &lt;/div&gt;
+&lt;/div&gt;        &lt;/div&gt;
+                                       
+        &lt;br/&gt;
+        &lt;div class='fb-page' data-adapt-container-width='true' data-hide-cover='false' data-href='https://www.facebook.com/DienNuocDaiPhong.0985401973' data-show-facepile='true' data-small-header='true'&gt;
+        &lt;/div&gt;
+		&lt;div class='youtube' data-adapt-container-width='true' data-small-header='true'&gt;
+      		&lt;div id='muteYouTubeVideoPlayer'/&gt;
+
+&lt;script src='https://www.youtube.com/iframe_api'/&gt;
+&lt;script&gt;
+function onYouTubeIframeAPIReady() {
+var player;
+player = new YT.Player(&amp;#39;muteYouTubeVideoPlayer&amp;#39;, {
+videoId: &amp;#39;eF1m2guxIro&amp;#39;, // YouTube Video ID
+width: 360, // Player width (in px)
+height: 240, // Player height (in px)
+playerVars: {
+autoplay: 1, // Auto-play the video on load
+controls: 1, // Show pause/play buttons in player
+showinfo: 0, // Hide the video title
+modestbranding: 1, // Hide the Youtube Logo
+loop: 1, // Run the video in a loop
+fs: 0, // Hide the full screen button
+cc_load_policty: 0, // Hide closed captions
+iv_load_policy: 3, // Hide the Video Annotations
+autohide: 0 // Hide video controls when playing
+},
+events: {
+onReady: function(e) {
+e.target.mute();
+}
+}
+});
+}
+// Written by @labnol
+&lt;/script&gt;
+		&lt;/div&gt;
+              &lt;br/&gt;
+&lt;/aside&gt;        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;&lt;!--End main content--&gt;
+                &lt;!--Footer--&gt;
+&lt;footer class='' id='footer-wrap'&gt;
+        &lt;div class='container'&gt;
+                &lt;div class='footer-inner'&gt;
+                        &lt;div class='footer-copyright'&gt;
+                            &lt;p&gt;&amp;#169; &lt;a expr:href='data:blog.homepageUrl'&gt;HÀI TẾT 2017&lt;/a&gt; Sưu tầm LINK trên YouTube | Liên hệ quảng cáo: &lt;strong&gt;097.666.4840&lt;/strong&gt; hoặc &lt;a href='mailto:info@diennuocdaiphong.com?Subject=Mời%20Quảng%20Cáo' target='_top'&gt;info@diennuocdaiphong.com&lt;/a&gt;
+                        &lt;/p&gt;
+                        &lt;/div&gt;
+                &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/footer&gt;
+
+
+
+&lt;link href='http://s.huypv.net/qtv/css/owl.carousel.css' rel='stylesheet'/&gt;
+&lt;script src='http://s.huypv.net/qtv/js/owl.carousel.js'/&gt;
+
+&lt;script type='text/javascript'&gt;
+        var owl = $(&amp;quot;#owl-carousel&amp;quot;);
+        owl.owlCarousel({
+            items : 4,
+            navigation : false,
+            pagination: false,
+            autoPlay : 5000,
+            stopOnHover: true,
+            itemsDesktop : [1199,4],
+            itemsTablet: [600,2], //2 items between 600 and 0
+            itemsDesktopSmall : [900,3],// betweem 900px and 601px
+            itemsMobile		:[479,2],
+        });
+        $(&amp;quot;.Rslide .next_slider&amp;quot;).click(function(){
+		owl.trigger(&amp;#39;owl.next&amp;#39;);
+	});
+	$(&amp;quot;.Rslide .prev_slider&amp;quot;).click(function(){
+		owl.trigger(&amp;#39;owl.prev&amp;#39;);
+	});
+&lt;/script&gt;
+
+
+          &lt;div id='fb-root'/&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = &amp;quot;//connect.facebook.net/vi_VN/sdk.js#xfbml=1&amp;amp;version=v2.3&amp;quot;;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, &amp;#39;script&amp;#39;, &amp;#39;facebook-jssdk&amp;#39;));&lt;/script&gt;
+
+
+
+&lt;script type='text/javascript'&gt;//Facebook, GA&lt;/script&gt;
+&lt;script&gt;
+if (typeof HP_IS_SINGLE !== &amp;#39;undefined&amp;#39;) getYoutubeUrl();
+&lt;/script&gt;
+
+
+
+            
+        &lt;/body&gt;
+&lt;/html&gt;</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/template/default'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/template/default'/><link rel='alternate' type='text/html' href='http://haitet.diennuocdaiphong.com/'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_PUBLISHING_MODE</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Kiểu xuất bản được thực hiện cho blog này.</title><content type='text'>PUBLISH_MODE_HOSTED</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_PUBLISHING_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_PUBLISHING_MODE'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_ADMIN_PERMISSION</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Danh sách email của quản trị viên cho blog.</title><content type='text'>daohuyhoang87@gmail.com</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_ADMIN_PERMISSION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_ADMIN_PERMISSION'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_ADULT_CONTENT</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Blog có chứa nội dung người lớn hay không</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_ADULT_CONTENT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_ADULT_CONTENT'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_ALTERNATE_JSRENDER_ALLOWED</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Liệu kết xuất JS thay thế có được cho phép hay không</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_ALTERNATE_JSRENDER_ALLOWED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_ALTERNATE_JSRENDER_ALLOWED'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_ANALYTICS_ACCOUNT_NUMBER</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Số tài khoản Google Analytics của blog</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_ANALYTICS_ACCOUNT_NUMBER'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_ANALYTICS_ACCOUNT_NUMBER'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_ARCHIVE_DATE_FORMAT</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Số định dạng ngày của chỉ mục lưu trữ</title><content type='text'>9</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_ARCHIVE_DATE_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_ARCHIVE_DATE_FORMAT'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_ARCHIVE_FREQUENCY</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Tần suất lưu trữ blog này</title><content type='text'>MONTHLY</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_ARCHIVE_FREQUENCY'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_ARCHIVE_FREQUENCY'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_AUTHOR_PERMISSION</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Danh sách email tác giả được phép xuất bản.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_AUTHOR_PERMISSION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_AUTHOR_PERMISSION'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_BACKLINKS_ALLOWED</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Có hiển thị liên kết ngược của nhận xét trên blog không</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_BACKLINKS_ALLOWED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_BACKLINKS_ALLOWED'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_BY_POST_ARCHIVING</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Có cung cấp trang lưu trữ cho mỗi bài đăng hay không</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_BY_POST_ARCHIVING'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_BY_POST_ARCHIVING'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_COMMENT_ACCESS</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Ai có thể nhận xét</title><content type='text'>REGISTERED</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_ACCESS'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_ACCESS'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_COMMENT_CAPTCHA</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Có yêu cầu người nhận xét hoàn thành Hình ảnh xác thực hay không</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_CAPTCHA'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_CAPTCHA'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_COMMENT_EMAIL</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Danh sách địa chỉ email để gửi thông báo có nhận xét mới</title><content type='text'>daohuyhoang87@gmail.com</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_EMAIL'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_COMMENT_FEED</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Loại nguồn cấp dữ liệu để cung cấp cho nhận xét blog</title><content type='text'>FULL</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_FEED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_FEED'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_COMMENT_FORM_LOCATION</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Vị trí mẫu nhận xét Blog</title><content type='text'>EMBEDDED_IFRAME</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_FORM_LOCATION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_FORM_LOCATION'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_COMMENT_MESSAGE</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Thông báo nhận xét blog</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_MESSAGE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_MESSAGE'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_COMMENT_MODERATION</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Có bật kiểm duyệt nhận xét không</title><content type='text'>DISABLED</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_MODERATION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_MODERATION'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_COMMENT_MODERATION_DELAY</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Số ngày sau khi nhận xét mới được kiểm duyệt</title><content type='text'>14</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_MODERATION_DELAY'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_MODERATION_DELAY'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_COMMENT_MODERATION_EMAIL</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Địa chỉ email để gửi đến thông báo về nhận xét mới cần kiểm duyệt</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_MODERATION_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_MODERATION_EMAIL'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_COMMENT_PROFILE_IMAGES</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Có hiển thị hình ảnh hồ sơ trong nhận xét không</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_PROFILE_IMAGES'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENT_PROFILE_IMAGES'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_COMMENTS_ALLOWED</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Có hiển thị nhận xét hay không</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENTS_ALLOWED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENTS_ALLOWED'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_COMMENTS_TIME_STAMP_FORMAT</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Nhận xét số định dạng thời gian</title><content type='text'>29</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENTS_TIME_STAMP_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_COMMENTS_TIME_STAMP_FORMAT'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_CONVERT_LINE_BREAKS</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Có chuyển đổi ngắt dòng thành thẻ &lt;br /&gt; trong trình chỉnh sửa bài đăng hay không</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_CONVERT_LINE_BREAKS'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_CONVERT_LINE_BREAKS'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_CUSTOM_PAGE_NOT_FOUND</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Nội dung được cung cấp khi không tìm thấy bài đăng hoặc trang yêu cầu.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_CUSTOM_PAGE_NOT_FOUND'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_CUSTOM_PAGE_NOT_FOUND'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_CUSTOM_ROBOTS_TXT</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Nội dung robots.txt tùy chỉnh của blog được phân phối đến các công cụ tìm kiếm.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_CUSTOM_ROBOTS_TXT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_CUSTOM_ROBOTS_TXT'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_CUSTOM_ROBOTS_TXT_ENABLED</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Blog này có phân phối nội dung robots.txt tùy chỉnh đến các công cụ tìm kiếm hay không.</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_CUSTOM_ROBOTS_TXT_ENABLED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_CUSTOM_ROBOTS_TXT_ENABLED'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_DATE_FORMAT</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Số định dạng tiêu đề ngày</title><content type='text'>26</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_DATE_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_DATE_FORMAT'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_DEFAULT_BACKLINKS_MODE</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Chế độ liên kết ngược mặc định dành cho bài đăng</title><content type='text'>DEFAULT_HAVE_BACKLINKS</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_DEFAULT_BACKLINKS_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_DEFAULT_BACKLINKS_MODE'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_DEFAULT_COMMENTS_MODE</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Chế độ nhận xét mặc định dành cho bài đăng</title><content type='text'>DEFAULT_HAVE_COMMENTS</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_DEFAULT_COMMENTS_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_DEFAULT_COMMENTS_MODE'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_DESCRIPTION</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Mô tả blog</title><content type='text'>Tổng hợp hài tết năm 2017 như Đại Gia Chân Đất 2017, Làng ế vợ 2017, Chôn nhời 2017 của Thăng Long AV và Bình Minh Film. Ngoài ra còn Xuân Hinh và Táo Quân 2017</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_DESCRIPTION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_DESCRIPTION'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_EMAIL_POST_LINKS</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Có hiển thị liên kết cho người dùng để gửi email bài đăng hay không</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_EMAIL_POST_LINKS'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_EMAIL_POST_LINKS'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_FEED_REDIRECT_URL</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>URL để chuyển hướng yêu cầu nguồn cấp dữ liệu bài đăng</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_FEED_REDIRECT_URL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_FEED_REDIRECT_URL'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_FLOAT_ALIGNMENT</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Căn chỉnh nổi cho blog này có được bật hay không</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_FLOAT_ALIGNMENT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_FLOAT_ALIGNMENT'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_LOCALE</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Ngôn ngữ cho blog này</title><content type='text'>vi</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_LOCALE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_LOCALE'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_M2B_WHITELIST_EMAIL</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Danh sách địa chỉ email có thể đăng bài lên blog thông qua email.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_M2B_WHITELIST_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_M2B_WHITELIST_EMAIL'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_MAX_NUM</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Số lượng tối đa những gì hiển thị trên trang chủ"</title><content type='text'>4</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_MAX_NUM'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_MAX_NUM'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_MAX_UNIT</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Nội dung hiển thị trên trang chủ</title><content type='text'>POSTS</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_MAX_UNIT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_MAX_UNIT'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_META_DESCRIPTION</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Mô tả meta của blog được phân phối cho công cụ tìm kiếm.</title><content type='text'>hai xuan. hai tet, hai lang e vo, tao quan 2017, dai gia chan dat 2017 full</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_META_DESCRIPTION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_META_DESCRIPTION'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_META_DESCRIPTION_ENABLED</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Cho dù blog này có được phân phối với mô tả meta hay không.</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_META_DESCRIPTION_ENABLED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_META_DESCRIPTION_ENABLED'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_NAME</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Tên của blog</title><content type='text'>Tổng Hợp Hài Tết 2017</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_NAME'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_NAME'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_PER_POST_FEED</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Loại nguồn cấp dữ liệu để cung cấp cho nhận xét trên mỗi bài đăng</title><content type='text'>FULL</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_PER_POST_FEED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_PER_POST_FEED'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_POST_FEED</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Loại nguồn cấp dữ liệu để cung cấp cho bài đăng blog</title><content type='text'>FULL</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_POST_FEED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_POST_FEED'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_POST_FEED_FOOTER</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Chân trang để gắn vào cuối mỗi mục trong nguồn cấp dữ liệu bài đăng</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_POST_FEED_FOOTER'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_POST_FEED_FOOTER'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_POST_TEMPLATE</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Mẫu cho bài đăng của blog</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_POST_TEMPLATE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_POST_TEMPLATE'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_PROMOTED</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Blog này có được quảng bá trên Blogger hay không</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_PROMOTED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_PROMOTED'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_QUICK_EDITING</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Chỉnh sửa Nhanh có được bật hay không</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_QUICK_EDITING'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_QUICK_EDITING'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_READ_ACCESS_MODE</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Kiểu truy cập cho người đọc blog.</title><content type='text'>PUBLIC</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_READ_ACCESS_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_READ_ACCESS_MODE'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_READER_PERMISSION</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Danh sách email người dùng có quyền đọc blog.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_READER_PERMISSION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_READER_PERMISSION'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_SEARCHABLE</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Blog này có được công cụ tìm kiếm lập chỉ mục hay không</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_SEARCHABLE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_SEARCHABLE'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_SEND_EMAIL</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Danh sách email được phân tách bằng dấu phẩy để gửi bài đăng blog mới đến</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_SEND_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_SEND_EMAIL'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_SHOW_TITLE</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Có hiển thị trường tiêu đề hay không</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_SHOW_TITLE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_SHOW_TITLE'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_SHOW_URL</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Có hiển thị ô liên kết có liên quan trong trình soạn bài đăng hay không</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_SHOW_URL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_SHOW_URL'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_TIME_STAMP_FORMAT</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Số định dạng thời gian</title><content type='text'>27</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_TIME_STAMP_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_TIME_STAMP_FORMAT'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_TIME_ZONE</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Múi giờ cho blog này</title><content type='text'>Asia/Bangkok</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_TIME_ZONE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_TIME_ZONE'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.settings.BLOG_USE_LIGHTBOX</id><published>2016-12-28T23:10:22.746+07:00</published><updated>2016-12-31T09:00:20.535+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Có hiển thị hình ảnh với hiệu ứng Hộp đèn khi bạn nhấp hay không</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_USE_LIGHTBOX'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/settings/BLOG_USE_LIGHTBOX'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.post-5584017133479107956</id><published>2016-12-30T09:58:00.000+07:00</published><updated>2016-12-30T10:01:10.585+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><category scheme='http://www.blogger.com/atom/ns#' term='binh minh film'/><title type='text'>Hài Tết 2017 - Làng Ế Vợ Phần 3 - Tập 3 - haitet.diennuocdaiphong.com</title><content type='html'>&lt;!--cq0EEFijKy0--&gt;</content><link rel='replies' type='application/atom+xml' href='http://haitet.diennuocdaiphong.com/feeds/5584017133479107956/comments/default' title='Đăng Nhận xét'/><link rel='replies' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/hai-tet-2017-lang-e-vo-phan-3-tap-3.html#comment-form' title='0 Nhận xét'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/5584017133479107956'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/5584017133479107956'/><link rel='alternate' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/hai-tet-2017-lang-e-vo-phan-3-tap-3.html' title='Hài Tết 2017 - Làng Ế Vợ Phần 3 - Tập 3 - haitet.diennuocdaiphong.com'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author><thr:total>0</thr:total><georss:featurename>Việt Nam</georss:featurename><georss:point>14.058324 108.277199</georss:point><georss:box>-1.4112204999999989 87.622902 29.5278685 128.93149599999998</georss:box></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.post-5681109586843712723</id><published>2016-12-29T16:59:00.002+07:00</published><updated>2016-12-29T17:00:56.661+07:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='tlav'/><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><title type='text'>Hài Tết 2017 - Bờm Tập 3 - TLAV</title><content type='html'>&lt;!--Ko1FhCCrypc--&gt;</content><link rel='replies' type='application/atom+xml' href='http://haitet.diennuocdaiphong.com/feeds/5681109586843712723/comments/default' title='Đăng Nhận xét'/><link rel='replies' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/hai-tet-2017-bom-tap-3-tlav.html#comment-form' title='0 Nhận xét'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/5681109586843712723'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/5681109586843712723'/><link rel='alternate' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/hai-tet-2017-bom-tap-3-tlav.html' title='Hài Tết 2017 - Bờm Tập 3 - TLAV'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.post-6554276716098827525</id><published>2016-12-29T15:07:00.002+07:00</published><updated>2016-12-29T15:07:42.882+07:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='tlav'/><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><title type='text'>Hài Tết 2017 - Enter Phần 2 - TLAV</title><content type='html'>&lt;!--02eyto-OVS4--&gt;</content><link rel='replies' type='application/atom+xml' href='http://haitet.diennuocdaiphong.com/feeds/6554276716098827525/comments/default' title='Đăng Nhận xét'/><link rel='replies' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/hai-tet-2017-enter-phan-2-tlav.html#comment-form' title='0 Nhận xét'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/6554276716098827525'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/6554276716098827525'/><link rel='alternate' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/hai-tet-2017-enter-phan-2-tlav.html' title='Hài Tết 2017 - Enter Phần 2 - TLAV'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.post-8564932427269539689</id><published>2016-12-29T15:05:00.003+07:00</published><updated>2016-12-29T15:07:42.886+07:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='tlav'/><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><title type='text'>Hài Tết 2017 - Enter Phần 1 - TLAV</title><content type='html'>&lt;!--kH7bK9ETYuM--&gt;</content><link rel='replies' type='application/atom+xml' href='http://haitet.diennuocdaiphong.com/feeds/8564932427269539689/comments/default' title='Đăng Nhận xét'/><link rel='replies' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/hai-tet-2017-enter-2-phan-tlav.html#comment-form' title='0 Nhận xét'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/8564932427269539689'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/8564932427269539689'/><link rel='alternate' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/hai-tet-2017-enter-2-phan-tlav.html' title='Hài Tết 2017 - Enter Phần 1 - TLAV'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.post-7874186197243190037</id><published>2016-12-29T15:04:00.001+07:00</published><updated>2016-12-29T15:04:33.717+07:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='tlav'/><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><title type='text'>Hài Tết 2017 - Bờm Tập 2 - TLAV</title><content type='html'>&lt;!--NwGnHR3HGd4--&gt;</content><link rel='replies' type='application/atom+xml' href='http://haitet.diennuocdaiphong.com/feeds/7874186197243190037/comments/default' title='Đăng Nhận xét'/><link rel='replies' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/hai-tet-2017-bom-tap-2-tlav.html#comment-form' title='0 Nhận xét'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/7874186197243190037'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/7874186197243190037'/><link rel='alternate' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/hai-tet-2017-bom-tap-2-tlav.html' title='Hài Tết 2017 - Bờm Tập 2 - TLAV'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.post-4242519640554855348</id><published>2016-12-29T15:02:00.001+07:00</published><updated>2016-12-29T15:02:38.495+07:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='tlav'/><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><title type='text'>Hài Tết 2017 - Bờm Tập 1 - TLAV</title><content type='html'>&lt;!--kLkhEkvG4CI--&gt;</content><link rel='replies' type='application/atom+xml' href='http://haitet.diennuocdaiphong.com/feeds/4242519640554855348/comments/default' title='Đăng Nhận xét'/><link rel='replies' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/hai-tet-2017-bom-tap-1-tlav.html#comment-form' title='0 Nhận xét'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/4242519640554855348'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/4242519640554855348'/><link rel='alternate' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/hai-tet-2017-bom-tap-1-tlav.html' title='Hài Tết 2017 - Bờm Tập 1 - TLAV'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.post-694605191224859883</id><published>2016-12-29T11:58:00.000+07:00</published><updated>2016-12-30T09:59:22.508+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><category scheme='http://www.blogger.com/atom/ns#' term='binh minh film'/><title type='text'>Hài Tết 2017 - Làng Ế Vợ Phần 3 - Tập 2 - haitet.diennuocdaiphong.com</title><content type='html'>&lt;!--Wa7xXrs5ET4--&gt;</content><link rel='replies' type='application/atom+xml' href='http://haitet.diennuocdaiphong.com/feeds/694605191224859883/comments/default' title='Đăng Nhận xét'/><link rel='replies' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/lang-e-vo-3-phan-2.html#comment-form' title='0 Nhận xét'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/694605191224859883'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/694605191224859883'/><link rel='alternate' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/lang-e-vo-3-phan-2.html' title='Hài Tết 2017 - Làng Ế Vợ Phần 3 - Tập 2 - haitet.diennuocdaiphong.com'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author><thr:total>0</thr:total><georss:featurename>Việt Nam</georss:featurename><georss:point>14.058324 108.277199</georss:point><georss:box>-1.4112204999999989 87.622902 29.5278685 128.93149599999998</georss:box></entry><entry><id>tag:blogger.com,1999:blog-1668105111515621734.post-7834567622294041458</id><published>2016-12-29T11:56:00.002+07:00</published><updated>2016-12-30T09:59:34.407+07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><category scheme='http://www.blogger.com/atom/ns#' term='binh minh film'/><title type='text'>Hài Tết 2017 - Làng Ế Vợ Phần 3 - Tập 1 - haitet.diennuocdaiphong.com</title><content type='html'>&lt;!--j39i7evx84c--&gt;</content><link rel='replies' type='application/atom+xml' href='http://haitet.diennuocdaiphong.com/feeds/7834567622294041458/comments/default' title='Đăng Nhận xét'/><link rel='replies' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/lang-e-vo-3-phan-1.html#comment-form' title='0 Nhận xét'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/7834567622294041458'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1668105111515621734/posts/default/7834567622294041458'/><link rel='alternate' type='text/html' href='http://haitet.diennuocdaiphong.com/2016/12/lang-e-vo-3-phan-1.html' title='Hài Tết 2017 - Làng Ế Vợ Phần 3 - Tập 1 - haitet.diennuocdaiphong.com'/><author><name>Hoàng Đào Huy</name><uri>https://plus.google.com/100744135142027761533</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh5.googleusercontent.com/-6Jdoo5mxV98/AAAAAAAAAAI/AAAAAAAAAQc/My3bFRX0hzU/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry></feed>
