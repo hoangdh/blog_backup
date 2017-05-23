@@ -7,13 +7,8 @@
 #
 #
 ###########
-if [ ! -e sub.png ]
-then
-	wget https://github.com/hoangdh/blog_backup/blob/master/crawler_vov2/sub.png?raw=true
-	mv 'sub.png?raw=true' sub.png
-fi
 
-if [ ! -e default-eva.png ]
+if [ ! -e default.png ]
 then
 	wget https://raw.githubusercontent.com/hoangdh/blog_backup/master/crawler_vov2/default-eva.png
 	mv default-eva.png background.png
@@ -38,7 +33,7 @@ do
 	title=`cat $x.txt | head -n 1 | tr ':' ' '`
 	
     ### Chen text vao background
-	ffmpeg -i background.jpg -vf "drawtext="fontfile=/opt/ARIAL.TTF": text='$title': fontcolor=white: fontsize=30: box=1: boxcolor=black@0.5: boxborderw=5: x=40: y=20" $x.png
+	ffmpeg -i background.png -vf "drawtext="fontfile=/opt/ARIAL.TTF": text='$title': fontcolor=white: fontsize=30: box=1: boxcolor=black@0.5: boxborderw=5: x=40: y=20" $x.png
 	
 	### Sua thumbnail
 	ls $x.jpg
