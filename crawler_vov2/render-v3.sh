@@ -9,6 +9,12 @@ fi
 if [ ! -e default.png ]
 then
 	wget https://raw.githubusercontent.com/hoangdh/blog_backup/master/crawler_vov2/default.jpg
+	mv default.jpg background.jpg
+fi
+
+if [ ! -e /opt/ARIAL.TTF ]
+then
+	wget
 fi
 
 name=`ls . | egrep '*.mp3'`
