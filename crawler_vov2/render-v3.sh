@@ -14,7 +14,7 @@ fi
 
 if [ ! -e /opt/ARIAL.TTF ]
 then
-	wget
+	wget https://raw.githubusercontent.com/hoangdh/blog_backup/master/crawler_vov2/ARIAL.TTF -O /opt/ARIAL.TTF
 fi
 
 name=`ls . | egrep '*.mp3'`
