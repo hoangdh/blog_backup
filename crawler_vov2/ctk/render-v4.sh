@@ -24,9 +24,9 @@ do
     echo $x
 	
 	# Lay title
-	x2=`echo $x | sed -r 's/c116/cmobile116/g'`
-	title=`cat $x2.txt | head -n 1 | tr ':' ' '`
-	
+	# x2=`echo $x | sed -r 's/c116/cmobile116/g'`
+	# title=`cat $x2.txt | head -n 1 | tr ':' ' '`
+	title=`cat $x.txt | head -n 2 | tail -n 1 | awk '{print $1}' FS="|"`
     ### Chen text vao background
 	ffmpeg -i background.png -vf "drawtext="fontfile=/opt/ARIAL.TTF": text='$title': fontcolor=white: fontsize=30: box=1: boxcolor=black@0.5: boxborderw=5: x=40: y=220" $x.png
 	

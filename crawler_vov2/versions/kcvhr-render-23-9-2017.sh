@@ -23,13 +23,14 @@ find . -type f -empty | xargs rm
 
 # Liet ke cac file co trong thu muc
 name=`ls . | egrep '*.mp3'`
-mkdir -p /opt/kcvhr/
+
 for x in $name
 do
 	x=`basename $x .mp3`
     echo $x
 	
 	# Lay title
+	# title=`cat $x.txt | head -n 1 | tr ':' ' '`
 	title=`cat $x.txt | head -n 2 | tail -n 1 | cut -d "|" -f1`
 	
     ### Chen text vao background
@@ -39,12 +40,11 @@ do
 	ls $x.jpg
 	if [ "$?" == "2" ]
 	then
-		ffmpeg -loop 1 -i $x.png -i $x.mp3 -c:v libx264 -aspect 16:9 -s 1280x720 -preset veryfast  -c:a aac -strict experimental -b:a 192k -shortest /opt/kcvhr/$x.mp4
+		ffmpeg -loop 1 -i $x.png -i $x.mp3 -c:v libx264 -aspect 16:9 -s 1280x720 -preset veryfast -c:a aac -strict experimental -b:a 192k -shortest $x.mp4
 	else
 		ffmpeg -i $x.jpg -s 400x300 -vf scale=400:300 $x-thumb.png
 		### Render video 720p
-		ffmpeg -loop 1 -i $x.png -i $x.mp3 -i $x-thumb.png -filter_complex "overlay=75:75"  -c:v libx264 -aspect 16:9 -s 1280x720 -preset veryfast  -c:a aac -strict experimental -b:a 192k -shortest /opt/kcvhr/$x.mp4
+		ffmpeg -loop 1 -i $x.png -i $x.mp3 -i $x-thumb.png -filter_complex "overlay=820:105" -c:v libx264 -aspect 16:9 -s 1280x720 -preset veryfast  -c:a aac -strict experimental -b:a 192k -shortest $x.mp4
 	fi
-	rm -rf $x-thumb.png
-	rm -rf $x.png
+	rm -rf $x-thumb.png $x.png
 done 
