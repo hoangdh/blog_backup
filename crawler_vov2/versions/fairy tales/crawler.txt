@@ -1,1 +1,2 @@
-curl http://www.storynory.com/category/stories/page/1/ |  grep -Po '(?<=href=")[^"]*' | grep -Ev "category|php|wp-*" | grep storynory.com | sort -u
+ wget http://www.storynory.com/category/stories/page/1/ -O a.html
+cat a.html |  grep -Po '(?<=href=")[^"]*' | grep -Ev "category|php|wp-*" | grep storynory.com | sort -u
