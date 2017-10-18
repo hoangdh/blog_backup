@@ -6,8 +6,8 @@
 #
 ########
 
-KEY="074ec1e2"
-SECRET="d6d8f98d91ed7e59"
+KEY="XXXXXXXX"
+SECRET="XXXXXXXXXXXXXXX"
 
 if [ "$NOTIFY_WHAT" = "HOST" ]
 then
