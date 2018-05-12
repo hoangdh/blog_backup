@@ -1,4 +1,4 @@
-#C
+#!/bin/bash
 list=$(cat list.txt | sort -u)
 for x in $list
 do
