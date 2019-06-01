@@ -6,7 +6,7 @@ PAGE="$1"
 INDEX=`echo $PAGE | awk -F '-c[0-9]' {'print $1'} | awk -F "//" {'print $2}' | awk -F / {'print $2'}`
 ID=$(echo $PAGE | grep -Eo '(c)[0-9]+' | grep -Eo '[0-9]+')
 
-for x in {1..$2}
+for x in `seq 1 $2`
 do
 	echo "Crawling page: $x"
 	curl -s $(echo $PAGE | sed "s/c${ID}/cmobile${ID}-p${x}/g") | grep -Po '(?<=href=")[^"]*' | egrep "/$INDEX/" | sort -u >> $INDEX.txt
